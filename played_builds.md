@@ -15,6 +15,6 @@
 
 ### Should try out:
 
-- Gnome, Circle of the Moon Druid
-- Astarion, Arcane Trickster, Honour Mode solo with no companions or hirelings and no respecs from Withers
-- Cleric
+- Circle of the Moon Druid
+- Astarion, Arcane Trickster
+- Gnome, "BONK Cleric", Honour mode

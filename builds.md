@@ -137,7 +137,7 @@
 * Spells: Darkness
 * TIP: Cast Darkness and then spam Eldritch Blast out of it. Also, drink Elixir of Viciousness every Long Rest
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
-Equipment:
+* Equipment:
     * Act 1: Knife of the Undermountain King
     * Act 2: Covert Cowl, Dark Justiciar Helmet, Hat of Fire Acuity (for Scorching Ray)
     * Act 3: Bloodthirst, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet

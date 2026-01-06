@@ -1,10 +1,19 @@
 # List of my builds from best to worst (subjective)
 
-## SOME PERMA BUFFS USEFUL FOR ANY BUILD:
+## Important to consider
 
-* Act 1: Get Auntie Ethel to low HP and then spare her to get +1 to any Ability (one-time use). The builds listed here assume that you took it to increase your highest ability. If you didn't, then just take any ability increasing feat to get to an even value (like Athlete for +1 to STR or DEX)
-* Act 2: In the Moonrise Towers speak to Araj Oblodra with Astarion in party and make him drink her blood to get Potion of Everlasting Vigour for +2 STR (one-time use)
-* Act 3: At the Mirror of Loss in the House of Grief you may get +1 CHR. Also, if you pass DC 25 Religion check, then you may get +2 to any Ability (once per character)
+* On Honour Mode extra attacks from Pact of the Blade and from classes DO NOT stack unlike on lower difficulties
+* On Honour Mode extra actions from Haste, Potion of Speed and others DO NOT give you extra attacks. The only exception is Action Surge 
+* Spell recasts (like Call Lightning) and some effects (like Mortal Reminder) use Spellcasting Modifier of the LAST new class you levelled. E.g. if you take a level in Fighter after only leveling Warlock, then Mortal Reminder will use INT instead of CHR
+* You DON'T get Armour Proficiencies while multiclassing into a class. You only get them from your FIRST class, your race and subclasses (including those you multiclass to). E.g. multiclassing into Fighter won't give you Heavy Armour Proficiency but multiclassing into Tempest Cleric will
+* Advantages and Disadvantages don't stack. If both are applied, then they cancel each other out. So if you have multiple sources of Disadvantages and one source of Advantage, then all will be cancelled. That works the other way around as well
+* Make one of your camp members into a Cleric, using them cast Aid on everyone then leave them at camp. You can also do this with spells like Warding Bond, Freedom of Movement, Mage Armour, Longstrider, etc
+* If you go inside Darkness cloud FIRST and then hide, you will break enemy AI, provided that your allies did the same. Enemies will just skip their turns forever as long as you continue hiding in Darkness at the end of each turn. This DOES NOT WORK against enemies who can see through Darkness (like Fiends or Sharrans), the combat will just end against them
+* If you instead FIRST hide and then go inside Darkness cloud then combat will just end
+* Some perma buffs useful for any build:
+    * Act 1: Get Auntie Ethel to low HP and then spare her to get +1 to any Ability (one-time use). The builds listed here assume that you took it to increase your highest ability. If you didn't, then just take any ability increasing feat to get to an even value (like Athlete for +1 to STR or DEX)
+    * Act 2: In the Moonrise Towers speak to Araj Oblodra with Astarion in party and make him drink her blood to get Potion of Everlasting Vigour for +2 STR (one-time use)
+    * Act 3: At the Mirror of Loss in the House of Grief you may get +1 CHR. Also, if you pass DC 25 Religion check, then you may get +2 to any Ability (once per character)
 
 ## Way of the Open Hand Monk 6 + Thief Rogue 4 + Fighter 2, aka "The Meatgrinder Monk"
 
@@ -35,7 +44,12 @@
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Pact Boon: Pact of the Blade
-* NOTE: On Honour mode you don't get a third attack with Pact of the Blade, so instead go Paladin 11 + Warlock 1 and the level order is: Paladin 1 -> Warlock 1 -> Paladin 11
+
+## Oathbreaker Paladin 11 + Hexblade Warlock 1, aka "Waradin 2.0 HONOUR MODE"
+
+* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
+* Level order: Paladin 1 -> Warlock 1 -> Paladin 11
+* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 
 ## Oathbreaker Paladin 7 + The Fiend Warlock 5, aka "Waradin"
 
@@ -43,7 +57,13 @@
 * Level order: Paladin 1 -> Warlock 5 -> Paladin 7
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Pact Boon: Pact of the Blade
-* NOTE: On Honour mode you don't get a third attack with Pact of the Blade, so instead go Paladin 9 + Warlock 3 and the level order is: Paladin 1 -> Warlock 4 -> Paladin 2 -> on level 7 respec to Paladin 4 + Warlock 3 -> Paladin 9
+
+## Oathbreaker Paladin 9 + The Fiend Warlock 3, aka "Waradin HONOUR MODE"
+
+* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
+* Level order: Paladin 1 -> Warlock 4 -> Paladin 2 -> on level 7 respec to Paladin 4 + Warlock 3 -> Paladin 9
+* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
+* Pact Boon: Pact of the Blade
 
 ## College of Swords Bard 10 + Oath of Vengeance Paladin 2, aka "Bardadin"
 
@@ -88,7 +108,6 @@
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Cleric 2 -> Sorcerer 10
 * Feat order: Ability Improvement +2 CHR -> Dual Wielder
-* NOTE: Cleric at level 1 gives you access to good armour. Also, since Sorcerer is your second class, Call Lightning will use CHR as modifier
 
 ## Storm Sorcery Sorcerer 12
 
@@ -111,9 +130,8 @@
 * Spells: Darkness
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting
-* TIP: Cast Darkness, attack enemies within it, then hide in it with your bonus action. This will break enemy AI and they won't retaliate
 * TIP: Consume Elixir of Viciousness every Long Rest and coat your weapon with Drow Poison, Crawler Mucus or Karabasan's Poison
-* NOTE: On Honour mode at level 12 take a level in Assasin Rogue instead of Fighter, because Extra attacks from Fighter and Pact don't stack
+* NOTE: On Honour mode at level 12 take a level in Assasin Rogue instead of Fighter
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shadow-Cloaked Ring, Covert Cowl, Dark Justiciar Helmet, Killer's Sweetheart, Surgeon's Subjugation Amulet
@@ -127,8 +145,7 @@
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Spells: Darkness
-* TIP: Cast Darkness spell to gain advantage on attack rolls and to give enemies disadvantage. Then spam Eldritch Blast out of Darkness. Also, drink Elixir of Viciousness every Long Rest
-* NOTE: Respecs are needed to make Mortal Reminder scale off CHR instead of INT
+* TIP: Cast Darkness and then spam Eldritch Blast out of it. Also, drink Elixir of Viciousness every Long Rest
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 Equipment:
     * Act 1: Knife of the Undermountain King
@@ -143,8 +160,7 @@ Equipment:
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Spells: Darkness
-* TIP: Cast Darkness, spam Eldritch Blast out of Darkness, then hide in it. This will break enemy AI and they won't retaliate. Also, drink Elixir of Viciousness every Long Rest
-* NOTE: Respecs are needed to make Mortal Reminder scale off CHR instead of INT
+* TIP: Drink Elixir of Viciousness every Long Rest
 * Equipment:
     * Act 1: Knife of the Undermountain King
     * Act 2: Covert Cowl, Dark Justiciar Helmet
@@ -191,7 +207,6 @@ Equipment:
 * Feat order: Ability Increase +2 INT -> Dual Wielder
 * Draconic Ancestry: White
 * TIP: Cast Armour of Agathys at the highest level after every Long Rest
-* TIP: Get a Cleric on your team. They can cast Warding Bond to reduce damage taken by 50%, cast Create Water to double damage dealt by cold and cast Aid to further increase HP
 
 ## Circle of the Moon Druid 12
 

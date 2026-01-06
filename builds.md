@@ -29,15 +29,6 @@
 * Feat order: Tavern Brawler +1 CON -> Ability Improvement +2 DEX -> Ability Improvement +2 WIS
 * NOTE: Consume Elixir of Hill Giant (or Cloud Giant) Strength every Long Rest
 
-## Way of Shadow Monk 12
-
-* Starting Abilities: 8 STR, 15+2 DEX, 14 CON, 8 INT, 15+1 WIS, 10 CHR
-* Feat order: Ability Improvement +2 DEX -> Great Weapon Master -> Savage Attacker
-* TIP: Cast Darkness, attack twice, then hide in it with bonus action. This breaks enemy AI and they won't retaliate
-* Equipment:
-    * Act 1: Strange Conduit Ring
-    * Act 2: Shadow-Cloaked Ring, Eversight Ring
-
 ## Oathbreaker Paladin 7 + The Fiend Warlock 5, aka "Waradin"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
@@ -74,6 +65,15 @@
     * Act 1: Returning Pike, Ring of Flinging, Gloves of Uninhibited Kushigo
     * Act 2: Selune's or Shar's Spear
     * Act 3: Dwarven Thrower, Nyrulna
+
+## Way of Shadow Monk 12
+
+* Starting Abilities: 8 STR, 15+2 DEX, 14 CON, 8 INT, 15+1 WIS, 10 CHR
+* Feat order: Ability Improvement +2 DEX -> Great Weapon Master -> Savage Attacker
+* TIP: Cast Darkness, attack twice, then hide in it with bonus action. This breaks enemy AI and they won't retaliate
+* Equipment:
+    * Act 1: Strange Conduit Ring
+    * Act 2: Shadow-Cloaked Ring, Eversight Ring
 
 ## Storm Sorcery Sorcerer 10 + Tempest Cleric 2, aka "Thor"
 

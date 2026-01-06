@@ -92,6 +92,7 @@
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shadow-Cloaked Ring, Eversight Ring
+* NOTE: You have both Darkness and Hide as a Bonus Action, so always save Ki Points and Bonus Actions to use them
 
 ## Storm Sorcery Sorcerer 10 + Tempest Cleric 2, aka "Thor"
 
@@ -117,7 +118,7 @@
 * Race: Half-Orc (deal more crit damage with melee weapons)
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Devil's Sight
-* Spells: Darkness
+* Essential Spells: Darkness
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting
 * TIP: Consume Elixir of Viciousness every Long Rest and coat your weapon with Drow Poison, Crawler Mucus or Karabasan's Poison
@@ -134,7 +135,7 @@
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
-* Spells: Darkness
+* Essential Spells: Darkness
 * TIP: Cast Darkness and then spam Eldritch Blast out of it. Also, drink Elixir of Viciousness every Long Rest
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 * Equipment:
@@ -149,7 +150,7 @@
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Lucky
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
-* Spells: Darkness
+* Essential Spells: Darkness
 * TIP: Drink Elixir of Viciousness every Long Rest
 * Equipment:
     * Act 1: Knife of the Undermountain King
@@ -185,6 +186,7 @@
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
 * Feat order: Alert -> Ability Improvement +2 INT -> Dual Wielder
+* Essential Spells: Magic Missile (of course)
 * Equipment:
     * Act 1: Ring of Absolute Force, Psychic Spark, Boots of Stormy Clamour, Gloves of Belligerent Skies, The Spellsparkler, The Protecty Sparkswall, The Watersparkers
     * Act 2: Thunderskin Cloak, Boots of Arcane Bolstering, Callous Glow Ring, Coruscation Ring, Ring of Spiteful Thunder
@@ -260,13 +262,6 @@
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Anything else
 * Race: Elf (to get proficiency with Longbows)
-* Spell order:
-    * Cantrips: Friends -> Minor Illusion -> Light -> Booming Blade
-    * Level 3: Disguise Self -> Tasha's Laughter -> Fog Cloud
-    * Level 4: Sleep -> replace Tasha's Laughter with Shield
-    * Level 7: Misty Step -> Mirror Image -> replace Sleep with Darkness
-    * Level 8: Shadow Blade
-    * Level 10: Invisibility
-    * Level 11: Hold Person
+* Essential Spells: Fog Cloud and Darkness
 * TIP: In Act 2 get Eversight Ring
 * NOTE: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out

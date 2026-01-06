@@ -229,6 +229,7 @@ Equipment:
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
+* TIP: Get Bhaalist Armour in Act 3
 * TIP: Use two Hand Crossbows to maximize Sharpshooter
 * NOTE: The idea is to get close to an enemy and then shoot them with a crossbow. This will provide: bonus dmg from Sharpshooter, no disadvantage due to Crossbow Expert, Sneak Attack due to Swashbuckler and bonus from Bhaalist Armour. At level 12 with two Hand Crossbows +2, Bhaalist Armour bonus and 22 DEX you will deal 76~156 dmg per turn
 

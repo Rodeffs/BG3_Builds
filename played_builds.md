@@ -2,7 +2,7 @@
 
 1. Asmodeus Tiefling, Evocation Wizard - COMPLETED
 2. Wood Half-Elf, "Meatgrinder Monk" - ABANDONED IN ACT 3 (was coop)
-3. Human, The Dark Urge, "Waradin" - COMPLETED
+3. Human, The Dark Urge, "Waradin" (used Fiend subclass since Hexblade wasn't out yet) - COMPLETED
 4. Drow, The Dark Urge, "Thor" - ABANDONED IN ACT 1 (got bored)
 5. Gale, Necromancer Wizard - COMPLETED
 6. Gold Dragonborn, The Dark Urge, Draconic Bloodline: Red Sorcerer, Honour Mode (without reloads) - COMPLETED

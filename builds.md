@@ -14,7 +14,7 @@
 * If you go inside Darkness cloud FIRST and then hide, you will break enemy AI, provided that your allies did the same. Enemies will just skip their turns forever as long as you continue hiding in Darkness at the end of each turn. This DOES NOT WORK against enemies who can see through Darkness (like Fiends or Sharrans), the combat will just end against them
 * If you instead FIRST hide and then go inside Darkness cloud then combat will just end
 * The previous two tips also apply to Fog Cloud
-* The bits about Darkness and Fog Cloud are the reason why I ranked builds with those spells higher and also is the reason to go at least two levels of Rogue in order to be able to hide inside them with Bonus Action
+* The bits about Darkness and Fog Cloud are the reasons why I ranked builds with those spells higher and also are the reasons to get at least two levels of Rogue in order to be able to hide inside them with a Bonus Action
 * Some perma buffs useful for any build:
     * Act 1: Get Auntie Ethel to low HP and then spare her to get +1 to any Ability (one-time use). The builds listed here assume that you took it to increase your highest ability. If you didn't, then just take any ability increasing feat to get to an even value (like Athlete for +1 to STR or DEX)
     * Act 2: In the Moonrise Towers speak to Araj Oblodra with Astarion in party and make him drink her blood to get Potion of Everlasting Vigour for +2 STR (one-time use)

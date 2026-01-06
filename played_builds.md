@@ -1,3 +1,5 @@
+# List of character builds that I played in chronological order
+
 1. Asmodeus Tiefling, Evocation Wizard - COMPLETED
 2. Wood Half-Elf, "Meatgrinder Monk" - ABANDONED IN ACT 3 (was coop)
 3. Human, The Dark Urge, "Waradin" - COMPLETED
@@ -11,6 +13,7 @@
 11. Githyanki, "Anti-Mage", only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
 
-Should try out:
+### Should try out:
+
 - Gnome, Circle of the Moon Druid
-- Astarion, Arcane Trickster, Honour Mode solo with no companions or hirelings (they may be at camp) and no respecs from Withers
+- Astarion, Arcane Trickster, Honour Mode solo with no companions or hirelings and no respecs from Withers

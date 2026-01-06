@@ -5,7 +5,7 @@
 * Only EVEN ability values matter. For instance, your STR modifier is 0 both at 10 STR and at 11 STR, but it's 1 at 12 STR
 * On Honour Mode extra attacks from Pact of the Blade and from classes DO NOT stack unlike on lower difficulties
 * On Honour Mode extra actions from Haste, Potion of Speed and others DO NOT give you extra attacks. The only exception is Action Surge 
-* Spell recasts (like Call Lightning) and some effects (like Mortal Reminder) use Spellcasting Modifier of the LAST new class you levelled. E.g. if you take a level in Fighter after only leveling Warlock, then Mortal Reminder will use INT instead of CHR
+* Scrolls, spell recasts (like Call Lightning) and some effects (like Mortal Reminder) use Spellcasting Modifier of the LAST new class you levelled. E.g. if you take a level in Fighter after only leveling Warlock, then Mortal Reminder will use INT instead of CHR
 * You DO NOT get Armour Proficiencies while multiclassing into a class. You only get them from your FIRST class, your race and subclasses (including those you multiclass to). E.g. multiclassing into Fighter won't give you Heavy Armour Proficiency but multiclassing into Tempest Cleric will
 * You use Saving Throw Proficiencies only from your FIRST class. This is especially important for casters, since the Saving Throw to maintain Concentration uses CON, so it's valuable to have Proficiency in it
 * Advantages and Disadvantages DO NOT stack. If both are applied, then they cancel each other out. So if you have multiple sources of Disadvantages and one source of Advantage, then all will be cancelled. That works the other way around as well
@@ -13,6 +13,8 @@
 * Make one of your camp members into a Cleric, using them cast Aid on everyone then leave them at camp. You can also do this with spells like Warding Bond, Freedom of Movement, Mage Armour, Longstrider, etc
 * If you go inside Darkness cloud FIRST and then hide, you will break enemy AI, provided that your allies did the same. Enemies will just skip their turns forever as long as you continue hiding in Darkness at the end of each turn. This DOES NOT WORK against enemies who can see through Darkness (like Fiends or Sharrans), the combat will just end against them
 * If you instead FIRST hide and then go inside Darkness cloud then combat will just end
+* The previous two tips also apply to Fog Cloud
+* The bits about Darkness and Fog Cloud are the reason why I ranked builds with those spells higher and also is the reason to go at least two levels of Rogue in order to be able to hide inside them with Bonus Action
 * Some perma buffs useful for any build:
     * Act 1: Get Auntie Ethel to low HP and then spare her to get +1 to any Ability (one-time use). The builds listed here assume that you took it to increase your highest ability. If you didn't, then just take any ability increasing feat to get to an even value (like Athlete for +1 to STR or DEX)
     * Act 2: In the Moonrise Towers speak to Araj Oblodra with Astarion in party and make him drink her blood to get Potion of Everlasting Vigour for +2 STR (one-time use)
@@ -101,7 +103,6 @@
 
 * Starting Abilities: 8 STR, 15+2 DEX, 14 CON, 8 INT, 15+1 WIS, 10 CHR
 * Feat order: Ability Improvement +2 DEX -> Great Weapon Master -> Savage Attacker
-* TIP: Cast Darkness, attack twice, then hide in it with bonus action. This breaks enemy AI and they won't retaliate
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shadow-Cloaked Ring, Eversight Ring
@@ -109,7 +110,7 @@
 ## Storm Sorcery Sorcerer 10 + Tempest Cleric 2, aka "Thor"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Cleric 2 -> Sorcerer 10
+* Level order: Sorcerer 1 -> Cleric 2 -> Sorcerer 10
 * Feat order: Ability Improvement +2 CHR -> Dual Wielder
 
 ## Storm Sorcery Sorcerer 12
@@ -143,7 +144,7 @@
 ## Draconic Bloodline Sorcerer 6 + The Great Old One Warlock 2 + Champion Fighter 4, aka "Eldritch Blaster"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Warlock 2 -> on level 3 respec to Sorcerer 1 + Warlock 2 -> Sorcerer 5 -> on level 9 respec to Fighter 1 + Warlock 2 + Sorcerer 6 -> Fighter 4
+* Level order: Warlock 2 -> Sorcerer 6 -> on level 9 respec to Fighter 1 + Warlock 2 + Sorcerer 6 -> Fighter 4
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
@@ -158,7 +159,7 @@ Equipment:
 ## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Warlock 3 -> on level 4 respec to Rogue 1 + Warlock 3 -> Rogue 2 -> Warlock 4 -> Rogue 4 -> on level 9 respec into Fighter 1 + Rogue 4 + Warlock 4 -> Fighter 4
+* Level order: Warlock 3 -> on level 4 respec to Rogue 1 + Warlock 3 -> Rogue 2 -> Warlock 4 -> Rogue 4 -> on level 9 respec to Fighter 1 + Rogue 4 + Warlock 4 -> Fighter 4
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Lucky
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
@@ -282,4 +283,3 @@ Equipment:
     * Level 10: Invisibility
     * Level 11: Hold Person
 * TIP: In Act 2 get Eversight Ring
-* NOTE: Cast Fog Cloud or Darkness, then hide in it. Every turn step out of it, shoot then hide back in. With Eversight Ring however, you may shoot enemies without stepping out

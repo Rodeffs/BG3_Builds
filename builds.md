@@ -268,7 +268,7 @@
 
 ## Nature Domain Cleric 12, aka "BONK Cleric"
 
-* Starting Abilities: 8 STR, 15 DEX, 15+1 CON, 8 INT, 15+2 WIS, 8 CHR
+* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 10 INT, 15+2 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS -> Alert, War Caster or Savage Attacker
 * Essential Spells: Shillelagh, Spirit Guardians
 * TIP: Wield a staff with two hands, enchant it with Shillelagh, cast Spirit Guardians at max level and then just run at enemies and BONK them

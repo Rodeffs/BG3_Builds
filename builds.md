@@ -164,7 +164,7 @@
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Spells: Darkness
 * TIP: Cast Darkness spell to gain advantage on attack rolls and to give enemies disadvantage. Then spam Eldritch Blast out of Darkness. Also, drink Elixir of Viciousness every Long Rest
-* NOTE: Respecs are needed to make Memento Mori scale off CHR instead of INT
+* NOTE: Respecs are needed to make Mortal Reminder scale off CHR instead of INT
 * Equipment:
     * Act 1: Knife of the Undermountain King
     * Act 2: Covert Cowl, Dark Justiciar Helmet
@@ -179,7 +179,7 @@
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Spells: Darkness
 * TIP: Cast Darkness, spam Eldritch Blast out of Darkness, then hide in it. This will break enemy AI and they won't retaliate. Also, drink Elixir of Viciousness every Long Rest
-* NOTE: Respecs are needed to make Memento Mori scale off CHR instead of INT
+* NOTE: Respecs are needed to make Mortal Reminder scale off CHR instead of INT
 * Equipment:
     * Act 1: Knife of the Undermountain King
     * Act 2: Covert Cowl, Dark Justiciar Helmet

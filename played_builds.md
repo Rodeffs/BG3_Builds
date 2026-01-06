@@ -17,3 +17,4 @@
 
 - Gnome, Circle of the Moon Druid
 - Astarion, Arcane Trickster, Honour Mode solo with no companions or hirelings and no respecs from Withers
+- War or Death Cleric

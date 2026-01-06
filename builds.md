@@ -165,9 +165,10 @@
 * Spells: Darkness
 * TIP: Cast Darkness spell to gain advantage on attack rolls and to give enemies disadvantage. Then spam Eldritch Blast out of Darkness. Also, drink Elixir of Viciousness every Long Rest
 * NOTE: Respecs are needed to make Mortal Reminder scale off CHR instead of INT
-* Equipment:
+* NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
+Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Dark Justiciar Helmet
+    * Act 2: Covert Cowl, Dark Justiciar Helmet, Hat of Fire Acuity (for Scorching Ray)
     * Act 3: Bloodthirst, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"

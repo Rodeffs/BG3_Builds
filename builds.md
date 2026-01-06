@@ -283,3 +283,4 @@ Equipment:
     * Level 10: Invisibility
     * Level 11: Hold Person
 * TIP: In Act 2 get Eversight Ring
+* NOTE: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out

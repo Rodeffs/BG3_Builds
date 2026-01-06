@@ -15,6 +15,4 @@
 
 ### Should try out:
 
-- Circle of the Moon Druid
-- Astarion, Arcane Trickster
-- Gnome, "BONK Cleric", Honour mode
+- Honour Mode with the "worst" classes: Nature Domain Cleric, Circle of the Moon Druid, Arcane Trickster Rogue and Hunter Ranger

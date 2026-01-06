@@ -2,11 +2,13 @@
 
 ## Important to consider
 
+* Only EVEN ability values matter. For instance, your STR modifier is 0 both at 10 STR and at 11 STR, but it's 1 at 12 STR
 * On Honour Mode extra attacks from Pact of the Blade and from classes DO NOT stack unlike on lower difficulties
 * On Honour Mode extra actions from Haste, Potion of Speed and others DO NOT give you extra attacks. The only exception is Action Surge 
 * Spell recasts (like Call Lightning) and some effects (like Mortal Reminder) use Spellcasting Modifier of the LAST new class you levelled. E.g. if you take a level in Fighter after only leveling Warlock, then Mortal Reminder will use INT instead of CHR
 * You DO NOT get Armour Proficiencies while multiclassing into a class. You only get them from your FIRST class, your race and subclasses (including those you multiclass to). E.g. multiclassing into Fighter won't give you Heavy Armour Proficiency but multiclassing into Tempest Cleric will
-* Advantages and Disadvantages don't stack. If both are applied, then they cancel each other out. So if you have multiple sources of Disadvantages and one source of Advantage, then all will be cancelled. That works the other way around as well
+* You use Saving Throw Proficiencies only from your FIRST class. This is especially important for casters, since the Saving Throw to maintain Concentration uses CON, so it's valuable to have Proficiency in it
+* Advantages and Disadvantages DO NOT stack. If both are applied, then they cancel each other out. So if you have multiple sources of Disadvantages and one source of Advantage, then all will be cancelled. That works the other way around as well
 * Make one of your camp members into a Cleric, using them cast Aid on everyone then leave them at camp. You can also do this with spells like Warding Bond, Freedom of Movement, Mage Armour, Longstrider, etc
 * If you go inside Darkness cloud FIRST and then hide, you will break enemy AI, provided that your allies did the same. Enemies will just skip their turns forever as long as you continue hiding in Darkness at the end of each turn. This DOES NOT WORK against enemies who can see through Darkness (like Fiends or Sharrans), the combat will just end against them
 * If you instead FIRST hide and then go inside Darkness cloud then combat will just end

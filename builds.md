@@ -43,32 +43,18 @@
 * Feat order: Tavern Brawler +1 CON -> Ability Improvement +2 DEX -> Ability Improvement +2 WIS
 * NOTE: Consume Elixir of Hill Giant (or Cloud Giant) Strength every Long Rest
 
-## Oathbreaker Paladin 7 + Hexblade Warlock 5, aka "Waradin 2.0"
+## Oathbreaker Paladin 7 + Hexblade Warlock 5, aka "Waradin"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Pact Boon: Pact of the Blade
 
-## Oathbreaker Paladin 11 + Hexblade Warlock 1, aka "Waradin 2.0 HONOUR MODE"
+## Oathbreaker Paladin 11 + Hexblade Warlock 1, aka "Waradin HONOUR MODE"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 11
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
-
-## Oathbreaker Paladin 7 + The Fiend Warlock 5, aka "Waradin"
-
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Paladin 1 -> Warlock 5 -> Paladin 7
-* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
-* Pact Boon: Pact of the Blade
-
-## Oathbreaker Paladin 9 + The Fiend Warlock 3, aka "Waradin HONOUR MODE"
-
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Paladin 1 -> Warlock 4 -> Paladin 2 -> on level 7 respec to Paladin 4 + Warlock 3 -> Paladin 9
-* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
-* Pact Boon: Pact of the Blade
 
 ## College of Swords Bard 10 + Oath of Vengeance Paladin 2, aka "Bardadin"
 

@@ -266,10 +266,11 @@
 * TIP: In Act 2 get Eversight Ring
 * TIP: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out
 
-## Nature Domain Cleric 12, aka "BONK Cleric"
+## War Domain Cleric 11 + Druid 1, aka "BONK Cleric"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 10 INT, 15+2 WIS, 8 CHR
-* Feat order: Great Weapon Master -> Ability Improvement +2 WIS -> Alert, War Caster or Savage Attacker
+* Level order: Druid 1 -> Cleric 11
+* Feat order: Great Weapon Master -> Ability Improvement +2 WIS
 * Essential Spells: Shillelagh, Spirit Guardians
 * TIP: Wield a staff with two hands, enchant it with Shillelagh, cast Spirit Guardians at max level and then just run at enemies and BONK them
-* TIP: In Act 3 get Staff of the Ram for maximum BONK
+* NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive

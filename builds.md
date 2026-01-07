@@ -94,7 +94,7 @@
     * Act 2: Shadow-Cloaked Ring, Eversight Ring
 * NOTE: You have both Darkness and Hide as a Bonus Action, so always save Ki Points and Bonus Actions to use them
 
-## Storm Sorcery Sorcerer 10 + Tempest Cleric 2, aka "Thor"
+## Storm Sorcery Sorcerer 10 + Tempest Domain Cleric 2, aka "Thor"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Sorcerer 1 -> Cleric 2 -> Sorcerer 10
@@ -221,12 +221,12 @@
 * Bestial Heart: Wolf or Bear
 * Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk
 
-## Light/Life/Tempest/Death/Trickery Cleric 12
+## Light/Life/Tempest/Death/Trickery Domain Cleric 12
 
 * Starting Abilities: 8 STR, 15 DEX, 15+1 CON, 8 INT, 15+2 WIS, 8 CHR
 * Feat order: Ability Improvement +2 WIS -> War Caster -> Alert or anything else
 
-## War Cleric 12
+## War Domain Cleric 12
 
 * Starting Abilities: 15+2 STR, 14 DEX, 14 CON, 8 INT, 13+1 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker

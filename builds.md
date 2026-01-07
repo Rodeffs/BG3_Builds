@@ -1,4 +1,4 @@
-# List of my builds from best to worst (subjective)
+# List of some interesting builds from best to worst (subjective)
 
 ## Important to consider
 
@@ -177,11 +177,6 @@
 * Battle Manoeuvres: Distracting Strike, Menacing Attack, Trip Attack
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
 
-## Battle Master Fighter 12
-
-* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
-* Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker -> Heavy Armour Master
-
 ## Evocation Wizard 12, aka "Magic Missile"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
@@ -220,16 +215,6 @@
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker
 * Bestial Heart: Wolf or Bear
 * Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk
-
-## Light/Life/Tempest/Death/Trickery Domain Cleric 12
-
-* Starting Abilities: 8 STR, 15 DEX, 15+1 CON, 8 INT, 15+2 WIS, 8 CHR
-* Feat order: Ability Improvement +2 WIS -> War Caster -> Alert or anything else
-
-## War Domain Cleric 12
-
-* Starting Abilities: 15+2 STR, 14 DEX, 14 CON, 8 INT, 13+1 WIS, 8 CHR
-* Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker
 
 ## Necromancy Wizard 12
 

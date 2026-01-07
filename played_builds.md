@@ -15,4 +15,4 @@
 
 ### Should try out:
 
-- Honour Mode with the "worst" classes: Nature Domain Cleric, Circle of the Moon Druid, Arcane Trickster Rogue and Hunter Ranger, no multiclassing
+- Honour Mode with the "worst" classes: Cleric, Druid, Rogue and Ranger

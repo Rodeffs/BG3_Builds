@@ -273,4 +273,4 @@
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS
 * Essential Spells: Shillelagh, Spirit Guardians
 * TIP: Wield a staff with two hands, enchant it with Shillelagh, cast Spirit Guardians at max level and then just run at enemies and BONK them
-* NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive
+* NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive. For the level 12 feat take Alert, War Caster or Savage Attacker

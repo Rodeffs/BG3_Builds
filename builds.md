@@ -103,10 +103,18 @@
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Fear order: Ability Improvement +2 CHR -> Dual Wielder -> Alert
 
-## Draconic Bloodline Sorcerer 12
+## Draconic Bloodline Sorcerer 12, aka "Firebener"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Fear order: Ability Improvement +2 CHR -> Elemental Adept -> Dual Wielder
+* Race: Dragonborn (resistant to fire), Tiefling
+* Draconic Bloodline: Red, Gold or Brass
+* Essential Spells: Scorching Ray
+* TIP: Spam Scorching Ray on enemies and don't forget to activate Heat Convergence when it's fully stacked
+* Equipment:
+    * Act 1: Cinder Shoes, The Spellsparkler, The Protecty Sparkswall
+    * Act 2: Hat of Fire Acuity, Fireheart, Thermoarcanic Gloves, Ring of Self Immolation, Callous Glow Ring
+    * Act 3: Markoheshkir
 
 ## Hexblade Warlock 5 + Champion Fighter 5 + Rogue 2, aka "Critlock"
 

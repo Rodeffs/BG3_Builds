@@ -12,7 +12,4 @@
 10. High Half-Elf, "Magic Missile", only do damage with Magic Missile and Artistry of War - IN PROCESS
 11. Githyanki, "Anti-Mage", only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
-
-### Should try out:
-
-- Honour Mode with the "worst" classes: Cleric, Druid, Rogue and Ranger
+13. Deep Gnome, "BONK Cleric", Honour Mode (with reloads) with the "worst" classes (Cleric, Druid, Rogue and Ranger) - IN PROCESS

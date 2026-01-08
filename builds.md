@@ -257,7 +257,7 @@
 * TIP: In Act 2 get Eversight Ring
 * TIP: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out
 
-## War Domain Cleric 11 + Druid 1, aka "BONK Cleric"
+## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 10 INT, 15+2 WIS, 8 CHR
 * Level order: Druid 1 -> Cleric 11

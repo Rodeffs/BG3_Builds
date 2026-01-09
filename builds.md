@@ -234,7 +234,7 @@
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
 * TIP: Use two Hand Crossbows to maximize Sharpshooter
-* NOTE: The idea is to get close to an enemy and then shoot them with a crossbow. This will provide: bonus dmg from Sharpshooter, no disadvantage due to Crossbow Expert, Sneak Attack due to Swashbuckler and bonus from Bhaalist Armour. At level 12 with two Hand Crossbows +2, Bhaalist Armour bonus and 22 DEX you will deal 76~156 dmg per turn
+* EXPLANATION: Get close to an enemy and then shoot them with crossbows. This will provide: bonus damage from Sharpshooter, no disadvantage due to Crossbow Expert, Sneak Attack due to Swashbuckler and bonus from Bhaalist Armour. At level 12 with two Hand Crossbows +2, Bhaalist Armour bonus and 22 DEX you will deal 76~156 dmg per turn
 
 ## Circle of the Moon Druid 6 + Wildheart Barbarian 6, aka "Enraged Beast"
 
@@ -252,13 +252,13 @@
 * Race: Elf (to get proficiency with Longbows)
 * Essential Spells: Fog Cloud and Darkness
 * TIP: In Act 2 get Eversight Ring
-* TIP: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out
+* EXPLANATION: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 10 INT, 15+2 WIS, 8 CHR
 * Level order: Druid 1 -> Cleric 11
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS
-* Essential Spells: Shillelagh, Spirit Guardians
-* TIP: Wield a staff with two hands, enchant it with Shillelagh, cast Spirit Guardians at max level and then just run at enemies and BONK them
-* NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive. For the level 12 feat take Alert, War Caster or Savage Attacker
+* Essential Spells: Shillelagh
+* EXPLANATION: Wield a staff with two hands, enchant it with Shillelagh and then just run at enemies and BONK them
+* NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive. In that case, for the level 12 feat take Alert, War Caster or Savage Attacker

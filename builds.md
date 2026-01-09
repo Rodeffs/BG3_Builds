@@ -116,9 +116,9 @@
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> Rogue 2 -> Warlock 5 -> Fighter 5
-* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
-* Race: Half-Orc (deal more crit damage with melee weapons)
-* Illithid Powers: Luck of the Far Realms, Favourable Beginnings
+* Feat order: Great Weapon Master -> Savage Attacker
+* Race: Half-Orc
+* Illithid Powers: Luck of the Far Realms, Favourable Beginnings, Cull the Weak
 * Eldritch Invocations: Devil's Sight
 * Essential Spells: Darkness
 * Pact Boon: Pact of the Blade
@@ -127,8 +127,9 @@
 * NOTE: On Honour Mode at level 12 pick Assassin Rogue instead of Fighter
 * Equipment:
     * Act 1: Strange Conduit Ring
-    * Act 2: Shadow-Cloaked Ring, Covert Cowl, Dark Justiciar Helmet, Killer's Sweetheart, Surgeon's Subjugation Amulet
-    * Act 3: The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet, Craterflesh Gloves, Birthright, Duke Ravenguard's Longsword
+    * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Surgeon's Subjugation Amulet
+    * Act 3: Bhaalist Armour, Craterflesh Gloves, Nyrulna, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
+* EXPLANATION: Prior to battle, Pact Bind a spear or a trident. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical attack will deal 96~126 damage, thanks to +10 damage from Great Weapon Master, piercing vulnerability from Bhaalist Armour and three damage rolls from Half-Orc. That's without even counting damage bonuses from your equipment and your weapon
 
 ## Draconic Bloodline Sorcerer 6 + The Great Old One Warlock 2 + Champion Fighter 4, aka "Eldritch Blaster"
 

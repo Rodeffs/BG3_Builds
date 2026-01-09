@@ -47,12 +47,8 @@
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Pact Boon: Pact of the Blade
-
-## Oathbreaker Paladin 11 + Hexblade Warlock 1, aka "Waradin HONOUR MODE"
-
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Paladin 1 -> Warlock 1 -> Paladin 11
-* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
+* Honour Mode variant: Oathbreaker Paladin 11 + Hexblade Warlock
+* Honour Mode level order: Paladin 1 -> Warlock 1 -> Paladin 11
 
 ## College of Swords Bard 10 + Oath of Vengeance Paladin 2, aka "Bardadin"
 
@@ -120,7 +116,7 @@
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> Rogue 2 -> Warlock 5 -> Fighter 5
-* Feat order: Great Weapon Master -> Savage Attacker
+* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Race: Half-Orc (deal more crit damage with melee weapons)
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Devil's Sight
@@ -128,7 +124,7 @@
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting
 * TIP: Consume Elixir of Viciousness every Long Rest and coat your weapon with Drow Poison, Crawler Mucus or Karabasan's Poison
-* NOTE: On Honour mode at level 12 take a level in Assasin Rogue instead of Fighter
+* NOTE: On Honour Mode at level 12 pick Assassin Rogue instead of Fighter
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shadow-Cloaked Ring, Covert Cowl, Dark Justiciar Helmet, Killer's Sweetheart, Surgeon's Subjugation Amulet

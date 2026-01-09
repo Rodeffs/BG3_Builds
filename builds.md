@@ -129,7 +129,7 @@
     * Act 1: Strange Conduit Ring
     * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Nyrulna, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
-* EXPLANATION: Prior to battle, Pact Bind a spear or a trident. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical attack will deal 96~126 damage, thanks to +10 damage from Great Weapon Master, piercing vulnerability from Bhaalist Armour and three damage rolls from Half-Orc. That's without even counting damage bonuses from your equipment and your weapon
+* EXPLANATION: Prior to battle, Pact Bind a spear or a trident and wear it with two hands. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical attack will deal 96~126 damage, thanks to +10 damage from Great Weapon Master, +5 damage from Pact Bind, piercing vulnerability from Bhaalist Armour and three damage rolls from Half-Orc. That's without even accounting for bonuses from the equipment
 
 ## Draconic Bloodline Sorcerer 6 + The Great Old One Warlock 2 + Champion Fighter 4, aka "Eldritch Blaster"
 

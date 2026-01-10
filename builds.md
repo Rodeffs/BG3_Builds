@@ -175,10 +175,17 @@
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX
 * Favoured Enemy: Ranger Knight (access to Heavy Armour);
 * Natural Explorer: Wasteland Wanderer: Fire or Poison (the most common damage types);
-* Fighting Style (Ranger): Archery;
+* Fighting Style (Ranger): Archery
 * Fighting Style (Fighter): Defence;
 * Battle Manoeuvres: Distracting Strike, Menacing Attack, Trip Attack
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
+
+## Battle Master Fighter 12
+
+* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
+* Fighting Style: Great Weapon Fighting
+* Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Attack, Riposte, Menacing Attack, Feinting Attack, Distracting Strike
 
 ## Evocation Wizard 12, aka "Magic Missile"
 
@@ -203,15 +210,6 @@
 * Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR 
 * Feat order: Tavern Brawler -> Alert -> Ability Improvement +2 WIS or anything else
 
-## Battle Master Fighter 8 + Thief Rogue 4, aka "Anti-Mage"
-
-* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
-* Level order: Fighter 5 -> Rogue 4 -> Fighter 8
-* Feat order: Dual Wielder -> Ability Improvement +2 STR -> Savage Attacker -> Heavy Armour Master
-* Fighting Style (Fighter) - Two-Weapon Fighting;
-* Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Strike, Riposte, Menacing Attack
-* TIP: Get Bhaalist Armour in Act 3
-
 ## Wildheart Barbarian 12
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
@@ -228,6 +226,17 @@
     * Act 1: Abyss Beckoners (begin using them after unlocking Ghouls), Necromancy of Thay (read it)
     * Act 3: The Tharchiate Codex (read Necromancy of Thay again to get Danse Macabre, keep in mind that those ghouls are uncontrollable and get stuck everywhere due to poor pathfinding)
 
+## Arcane Trickster Rogue 12
+
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
+* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows
+* Essential Spells: Fog Cloud and Darkness
+* Equipment:
+    * Act 1: Knife of the Undermountain King, Strange Conduit Ring
+    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
+
 ## Swashbuckler Rogue 12
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
@@ -243,17 +252,6 @@
 * Bestial Heart: Wolf or Bear
 * Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk
 * TIP: Cast Rage on the first turn, then on the second use your Wild Shape
-
-## Arcane Trickster Rogue 12
-
-* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
-* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows
-* Essential Spells: Fog Cloud and Darkness
-* Equipment:
-    * Act 1: Knife of the Undermountain King, Strange Conduit Ring
-    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
-    * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
-* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 

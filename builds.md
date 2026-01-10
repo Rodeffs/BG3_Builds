@@ -249,7 +249,7 @@
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
 * Feat order: Sharpshooter -> Weapon Master +1 DEX -> Crossbow Expert -> Athlete +1 DEX
-* Weapon Master: Heavy Crossbow and Longbows
+* Weapon Master: Heavy Crossbows and Longbows
 * Essential Spells: Fog Cloud and Darkness
 * Equipment:
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring

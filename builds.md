@@ -121,7 +121,7 @@
 * Feat order: Great Weapon Master -> Savage Attacker
 * Race: Half-Orc
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings, Cull the Weak
-* Eldritch Invocations: Devil's Sight
+* Eldritch Invocations: Devil's Sight, Agonising Blast
 * Essential Spells: Darkness
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting

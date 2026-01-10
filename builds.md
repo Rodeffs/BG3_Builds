@@ -126,7 +126,7 @@
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting
 * TIP: Consume Elixir of Viciousness every Long Rest and coat your weapon with Drow Poison, Crawler Mucus or Karabasan's Poison
-* NOTE: On Honour Mode at level 12 pick Assassin Rogue instead of Fighter
+* NOTE: On Honour Mode at level 12 pick Thief Rogue instead of Fighter for another Bonus Action in order to actually utilise Bonus Attack from Great Weapon Master 
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Surgeon's Subjugation Amulet

@@ -254,7 +254,7 @@
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring
     * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
-* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank, if you land a critical, it will deal at least 88~244 damage
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 

@@ -247,7 +247,7 @@
 ## Arcane Trickster Rogue 12
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
-* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows
+* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows +1 DEX
 * Essential Spells: Fog Cloud and Darkness
 * Equipment:
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring

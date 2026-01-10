@@ -73,8 +73,8 @@
 
 ## Eldritch Knight Fighter 12, aka "Eldritch Knight Thrower"
 
-* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
-* Feat order: Tavern Brawler +1 STR -> Heavy Armour Master -> Dual Wielder -> Alert
+* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Feat order: Tavern Brawler +1 STR -> Heavy Armour Master -> Alert -> Dual Wielder
 * Fighting Style: Defence
 * Equipment:
     * Act 1: Returning Pike, Ring of Flinging, Gloves of Uninhibited Kushigo

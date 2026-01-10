@@ -233,8 +233,7 @@
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
-* TIP: Use two Hand Crossbows to maximize Sharpshooter
-* EXPLANATION: Get close to an enemy and then shoot them with crossbows. This will provide: bonus damage from Sharpshooter, no disadvantage due to Crossbow Expert, Sneak Attack due to Swashbuckler and bonus from Bhaalist Armour. At level 12 with two Hand Crossbows +2, Bhaalist Armour bonus and 22 DEX you will deal 76~156 dmg per turn
+* EXPLANATION: Attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows, Bhaalist Armour and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
 
 ## Circle of the Moon Druid 6 + Wildheart Barbarian 6, aka "Enraged Beast"
 
@@ -255,7 +254,7 @@
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring
     * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
-* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank, if you land a critical, it will deal at least 88~244 damage
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 

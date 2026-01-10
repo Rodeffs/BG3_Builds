@@ -143,8 +143,8 @@
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Dark Justiciar Helmet, Hat of Fire Acuity (for Scorching Ray)
-    * Act 3: Bloodthirst, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
+    * Act 2: Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray)
+    * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"
 
@@ -157,8 +157,8 @@
 * TIP: Drink Elixir of Viciousness every Long Rest
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Dark Justiciar Helmet
-    * Act 3: Bloodthirst, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
+    * Act 2: Covert Cowl, Killer's Sweetheart
+    * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## College of Swords Bard 6 + Thief Rogue 4 + Fighter 2, aka "Dual XBow"
 
@@ -248,11 +248,14 @@
 ## Arcane Trickster Rogue 12
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
-* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Anything else
-* Race: Elf (to get proficiency with Longbows)
+* Feat order: Sharpshooter -> Weapon Master +1 DEX -> Crossbow Expert -> Athlete +1 DEX
+* Weapon Master: Heavy Crossbow and Longbows
 * Essential Spells: Fog Cloud and Darkness
-* TIP: In Act 2 get Eversight Ring
-* EXPLANATION: Before you get Eversight Ring, cast Fog Cloud or Darkness, step out of it, attack, then hide back inside it. After the ring, however, you may attack without stepping out
+* Equipment:
+    * Act 1: Knife of the Undermountain King, Strange Conduit Ring
+    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 

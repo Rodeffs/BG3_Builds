@@ -13,3 +13,5 @@
 11. Githyanki, "Anti-Mage", only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
 13. Deep Gnome, "BONK Cleric", Honour Mode (with reloads) with the "worst" classes (Cleric, Druid, Rogue and Ranger) - IN PROCESS
+
+Should try: Astarion, Arcane Trickster, Honour Mode solo

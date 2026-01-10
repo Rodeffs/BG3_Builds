@@ -129,7 +129,7 @@
     * Act 1: Strange Conduit Ring
     * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Nyrulna, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
-* EXPLANATION: Prior to battle, Pact Bind a spear or a trident and wear it with two hands. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical attack will deal 96~126 damage, thanks to +10 damage from Great Weapon Master, +5 damage from Pact Bind, piercing vulnerability from Bhaalist Armour and three damage rolls from Half-Orc. That's without even accounting for bonuses from the equipment
+* EXPLANATION: Prior to battle, Pact Bind a spear or a trident and wear it with two hands. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical strike will deal 96~126 damage without accounting for other equipment
 
 ## Draconic Bloodline Sorcerer 6 + The Great Old One Warlock 2 + Champion Fighter 4, aka "Eldritch Blaster"
 
@@ -254,7 +254,7 @@
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring
     * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
-* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 

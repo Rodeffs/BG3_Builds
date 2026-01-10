@@ -46,6 +46,7 @@
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
+* Fighting Style: Great Weapon Fighting
 * Pact Boon: Pact of the Blade
 * Honour Mode variant: Oathbreaker Paladin 11 + Hexblade Warlock
 * Honour Mode level order: Paladin 1 -> Warlock 1 -> Paladin 11
@@ -74,6 +75,7 @@
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Tavern Brawler +1 STR -> Heavy Armour Master -> Dual Wielder -> Alert
+* Fighting Style: Defence
 * Equipment:
     * Act 1: Returning Pike, Ring of Flinging, Gloves of Uninhibited Kushigo
     * Act 2: Selune's or Shar's Spear
@@ -173,10 +175,10 @@
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 8 INT, 14 WIS, 10 CHR
 * Level order: Ranger 5 -> Rogue 4 -> Fighter 3
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX
-* Favoured Enemy: Ranger Knight (access to Heavy Armour);
-* Natural Explorer: Wasteland Wanderer: Fire or Poison (the most common damage types);
+* Favoured Enemy: Ranger Knight (access to Heavy Armour)
+* Natural Explorer: Wasteland Wanderer: Fire or Poison (the most common damage types)
 * Fighting Style (Ranger): Archery
-* Fighting Style (Fighter): Defence;
+* Fighting Style (Fighter): Defence
 * Battle Manoeuvres: Distracting Strike, Menacing Attack, Trip Attack
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
 

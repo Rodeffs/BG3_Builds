@@ -187,6 +187,17 @@
 * Fighting Style: Great Weapon Fighting
 * Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Attack, Riposte, Menacing Attack, Feinting Attack, Distracting Strike
 
+## Arcane Trickster Rogue 12
+
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
+* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows
+* Essential Spells: Fog Cloud and Darkness
+* Equipment:
+    * Act 1: Knife of the Undermountain King, Strange Conduit Ring
+    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
+* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
+
 ## Evocation Wizard 12, aka "Magic Missile"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
@@ -205,11 +216,6 @@
 * Draconic Ancestry: White
 * TIP: Cast Armour of Agathys at the highest level after every Long Rest
 
-## Circle of the Moon Druid 12
-
-* Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR 
-* Feat order: Tavern Brawler -> Alert -> Ability Improvement +2 WIS or anything else
-
 ## Wildheart Barbarian 12
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
@@ -226,23 +232,17 @@
     * Act 1: Abyss Beckoners (begin using them after unlocking Ghouls), Necromancy of Thay (read it)
     * Act 3: The Tharchiate Codex (read Necromancy of Thay again to get Danse Macabre, keep in mind that those ghouls are uncontrollable and get stuck everywhere due to poor pathfinding)
 
-## Arcane Trickster Rogue 12
-
-* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
-* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Weapon Master: Heavy Crossbows
-* Essential Spells: Fog Cloud and Darkness
-* Equipment:
-    * Act 1: Knife of the Undermountain King, Strange Conduit Ring
-    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
-    * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
-* EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
-
 ## Swashbuckler Rogue 12
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
 * EXPLANATION: Attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows, Bhaalist Armour and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
+
+## Circle of the Moon Druid 12
+
+* Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR 
+* Feat order: Tavern Brawler -> Alert -> Ability Improvement +2 WIS or anything else
 
 ## Circle of the Moon Druid 6 + Wildheart Barbarian 6, aka "Enraged Beast"
 

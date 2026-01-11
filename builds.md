@@ -182,6 +182,14 @@
 * Battle Manoeuvres: Distracting Strike, Menacing Attack, Trip Attack
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
 
+## Eldritch Knight Fighter 12
+
+* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
+* Essential Spells: Booming Blade
+* Good Spells: Shield, Longstrider, Feather Fall, Enhancd Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
+* TIP: Your first attack must always be Booming Blade in order to trigger War Magic passive from level 7
+
 ## Battle Master Fighter 12
 
 * Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR

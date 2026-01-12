@@ -210,17 +210,17 @@
     * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
 * EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
 
-## Evocation Wizard 12, aka "Magic Missile"
+## Evocation Wizard 12, aka "Magic Missile Wizard"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
 * Feat order: Alert -> Ability Improvement +2 INT -> Dual Wielder
 * Essential Spells: Magic Missile (of course)
 * Equipment:
-    * Act 1: Ring of Absolute Force, Psychic Spark, Boots of Stormy Clamour, Gloves of Belligerent Skies, The Spellsparkler, The Protecty Sparkswall, The Watersparkers
+    * Act 1: Ring of Absolute Force, Psychic Spark, Boots of Stormy Clamour, Gloves of Belligerent Skies, The Spellsparkler, The Protecty Sparkswall, The Watersparkers, The Sparkswall
     * Act 2: Thunderskin Cloak, Boots of Arcane Bolstering, Callous Glow Ring, Coruscation Ring, Ring of Spiteful Thunder
     * Act 3: Markoheshkir, Hat of the Sharp Caster, Scroll of Artistry of War (learn it)
 
-## Abjuration Wizard 11 + Draconic Bloodline Sorcerer 1, aka "Wizard Tank"
+## Abjuration Wizard 11 + Draconic Bloodline Sorcerer 1, aka "Tank Wizard"
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 15+2 INT, 10 WIS, 8 CHR
 * Level order: Sorcerer 1 -> Wizard 11

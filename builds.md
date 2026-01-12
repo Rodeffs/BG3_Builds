@@ -172,7 +172,7 @@
 * Fighting Style (Bard): Two-Weapon Figting
 * Fighting Style (Fighter): Archery
 * TIP: Get Bhaalist Armour
-* EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, shoot enemies at point-blank range
+* EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, shoot enemies at point-blank range with two hand crossbows 4 times in a row
 
 ## Gloom Stalker Ranger 5 + Assassin Rogue 4 + Arcane Archer Fighter 3, aka "Gloom Assassin"
 

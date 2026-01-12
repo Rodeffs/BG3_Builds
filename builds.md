@@ -122,11 +122,13 @@
 * Race: Half-Orc
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings, Cull the Weak
 * Eldritch Invocations: Devil's Sight, Agonising Blast
-* Essential Spells: Darkness
+* Essential Spells: Booming Blade, Eldritch Blast, Darkness
 * Pact Boon: Pact of the Blade
 * Fighting Style: Great Weapon Fighting
 * TIP: Consume Elixir of Viciousness every Long Rest and coat your weapon with Drow Poison, Crawler Mucus or Karabasan's Poison
-* NOTE: On Honour Mode at level 12 pick Thief Rogue instead of Fighter for another Bonus Action in order to actually utilise Bonus Attack from Great Weapon Master 
+* Honour Mode variant: Hexblade Warlock 5 + Thief Rogue 4 + Champion Fighter 3
+* Honour Mode level order: Warlock 3 -> Rogue 2 -> Warlock 5 -> Rogue 4 -> Fighter 3
+* NOTE: Thief Rogue is needed to be able to use Bonus Attack from Great Weapon Master 
 * Equipment:
     * Act 1: Strange Conduit Ring
     * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Surgeon's Subjugation Amulet
@@ -140,7 +142,7 @@
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
-* Essential Spells: Darkness
+* Essential Spells: Eldritch Blast, Darkness
 * TIP: Cast Darkness and then spam Eldritch Blast out of it. Also, drink Elixir of Viciousness every Long Rest
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 * Equipment:
@@ -155,7 +157,7 @@
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Lucky
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
-* Essential Spells: Darkness
+* Essential Spells: Eldritch Blast, Darkness
 * TIP: Drink Elixir of Viciousness every Long Rest
 * Equipment:
     * Act 1: Knife of the Undermountain King

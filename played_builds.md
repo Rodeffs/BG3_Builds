@@ -9,7 +9,7 @@
 7. Drow Half-Elf, The Dark Urge, "Eldritch Blaster", only do damage with Eldritch Blast - COMPLETED
 8. Wood Half-Elf, The Dark Urge, Swashbuckler Rogue - COMPLETED
 9. Duergar, Way of Shadow Monk, solo with no companions or hirelings - COMPLETED
-10. High Half-Elf, "Magic Missile", only do damage with Magic Missile and Artistry of War - IN PROCESS
+10. High Half-Elf, "Magic Missile Wizard", only do damage with Magic Missile and Artistry of War - IN PROCESS
 11. Githyanki, Battle Master Fighter, only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
 13. Deep Gnome, "BONK Domain Cleric", Honour Mode (with reloads) and with the worst classes (like Rogue, Druid, Ranger, Warlock) - IN PROCESS
@@ -17,4 +17,4 @@
 Should try:
 
 - Astarion, Arcane Trickster, Honour Mode solo
-- High Half-Elf (take Bone Chill Cantrip), "Wizard Tank"
+- High Half-Elf (take Bone Chill Cantrip), "Tank Wizard"

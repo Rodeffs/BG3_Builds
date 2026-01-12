@@ -131,7 +131,7 @@
 * NOTE: Thief Rogue is needed to be able to use Bonus Attack from Great Weapon Master 
 * Equipment:
     * Act 1: Strange Conduit Ring
-    * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl
+    * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Nyrulna, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 * EXPLANATION: Prior to battle, Pact Bind a spear or a trident and wear it with two hands. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical strike will deal 96~126 damage without accounting for other equipment
 
@@ -193,6 +193,10 @@
 * Essential Spells: Booming Blade
 * Good Spells: Shield, Longstrider, Feather Fall, Enhancd Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
 * TIP: Your first attack must always be Booming Blade in order to trigger War Magic passive from level 7
+* Equipment:
+    * Act 2: Selune's or Shar's Spear
+    * Act 3: Bhaalist Armour, Nyrulna
+* TIP: After getting Bhaalist Armour, begin attacking enemies with a spear or a trident
 
 ## Battle Master Fighter 12
 
@@ -200,6 +204,10 @@
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
 * Fighting Style: Great Weapon Fighting
 * Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Attack, Riposte, Menacing Attack, Feinting Attack, Distracting Strike
+* Equipment:
+    * Act 2: Selune's or Shar's Spear
+    * Act 3: Bhaalist Armour, Nyrulna
+* TIP: After getting Bhaalist Armour, begin attacking enemies with a spear or a trident
 
 ## Arcane Trickster Rogue 12
 

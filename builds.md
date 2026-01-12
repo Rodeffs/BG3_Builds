@@ -168,9 +168,11 @@
 
 * Starting Abilities: 8 STR, 15+2 DEX, 14 CON, 8 INT, 10 WIS, 15+1 CHR
 * Level order: Bard 6 -> Rogue 4 -> Fighter 2
-* Feat order: Sharpshooter -> Ability Improvement +2 DEX
+* Feat order: Sharpshooter -> Crossbow Expert
 * Fighting Style (Bard): Two-Weapon Figting
 * Fighting Style (Fighter): Archery
+* TIP: Get Bhaalist Armour
+* EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, shoot enemies at point-blank range
 
 ## Gloom Stalker Ranger 5 + Assassin Rogue 4 + Arcane Archer Fighter 3, aka "Gloom Assassin"
 
@@ -249,7 +251,7 @@
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
-* EXPLANATION: Attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows, Bhaalist Armour and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
+* EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
 
 ## Circle of the Moon Druid 12
 

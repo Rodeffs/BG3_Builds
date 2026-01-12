@@ -224,7 +224,7 @@
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 15+2 INT, 10 WIS, 8 CHR
 * Level order: Sorcerer 1 -> Wizard 11
-* Feat order: Ability Increase +2 INT -> Dual Wielder
+* Feat order: Ability Increase +2 INT or Resilient: Intelligence -> Alert or Dual Wielder
 * Draconic Ancestry: White
 * TIP: Cast Armour of Agathys at the highest level after every Long Rest
 

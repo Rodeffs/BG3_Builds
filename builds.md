@@ -118,7 +118,7 @@
 
 * Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> Rogue 2 -> Warlock 5 -> Fighter 5
-* Feat order: Great Weapon Master -> Savage Attacker
+* Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Race: Half-Orc
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings, Cull the Weak
 * Eldritch Invocations: Devil's Sight, Agonising Blast

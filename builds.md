@@ -172,16 +172,16 @@
 * Fighting Style (Bard): Two-Weapon Figting
 * Fighting Style (Fighter): Archery
 
-## Gloom Stalker Ranger 5 + Assassin Rogue 4 + Battle Master Fighter 3, aka "Gloom Assassin"
+## Gloom Stalker Ranger 5 + Assassin Rogue 4 + Arcane Archer Fighter 3, aka "Gloom Assassin"
 
-* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 8 INT, 14 WIS, 10 CHR
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
 * Level order: Ranger 5 -> Rogue 4 -> Fighter 3
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX
 * Favoured Enemy: Ranger Knight (access to Heavy Armour)
 * Natural Explorer: Wasteland Wanderer: Fire or Poison (the most common damage types)
 * Fighting Style (Ranger): Archery
 * Fighting Style (Fighter): Defence
-* Battle Manoeuvres: Distracting Strike, Menacing Attack, Trip Attack
+* Arcane Shots: Bursting Arrow, Shadow Arrow, Seeking Arrow
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
 
 ## Eldritch Knight Fighter 12

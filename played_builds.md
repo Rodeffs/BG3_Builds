@@ -14,4 +14,7 @@
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
 13. Deep Gnome, "BONK Domain Cleric", Honour Mode (with reloads) and with the worst classes (like Rogue, Druid, Ranger, Warlock) - IN PROCESS
 
-Should try: Astarion, Arcane Trickster, Honour Mode solo
+Should try:
+
+- Astarion, Arcane Trickster, Honour Mode solo
+- High Half-Elf (take Bone Chill Cantrip), "Wizard Tank"

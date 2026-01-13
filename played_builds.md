@@ -17,4 +17,3 @@
 Should try:
 
 - Astarion, Arcane Trickster, Honour Mode solo
-- High Half-Elf (take Bone Chill Cantrip), "Tank Wizard"

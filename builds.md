@@ -43,7 +43,7 @@
 
 ## Oathbreaker Paladin 7 + Hexblade Warlock 5, aka "Waradin"
 
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Fighting Style: Great Weapon Fighting
@@ -92,7 +92,7 @@
 
 ## Storm Sorcery Sorcerer 10 + Tempest Domain Cleric 2, aka "Thor"
 
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Sorcerer 1 -> Cleric 2 -> Sorcerer 10
 * Feat order: Ability Improvement +2 CHR -> Dual Wielder
 
@@ -116,7 +116,7 @@
 
 ## Hexblade Warlock 5 + Champion Fighter 5 + Rogue 2, aka "Critlock"
 
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 15+2 CHR
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> Rogue 2 -> Warlock 5 -> Fighter 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Race: Half-Orc
@@ -232,7 +232,7 @@
 
 ## Abjuration Wizard 11 + Draconic Bloodline Sorcerer 1, aka "Tank Wizard"
 
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 15+2 INT, 10 WIS, 8 CHR
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
 * Level order: Sorcerer 1 -> Wizard 11
 * Feat order: Ability Increase +2 INT or Resilient: Intelligence -> Alert or Dual Wielder
 * Draconic Ancestry: White
@@ -256,7 +256,7 @@
 
 ## Swashbuckler Rogue 12
 
-* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 13 WIS, 10 CHR
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 14 WIS, 8 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
 * EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
@@ -277,7 +277,7 @@
 
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 
-* Starting Abilities: 8 STR, 14 DEX, 15+1 CON, 10 INT, 15+2 WIS, 8 CHR
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
 * Level order: Druid 1 -> Cleric 11
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS
 * Essential Spells: Shillelagh

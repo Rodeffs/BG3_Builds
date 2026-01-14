@@ -279,7 +279,9 @@
 ## Bladesinging Wizard 12
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
-* Feat order: Ability Improvememt +2 INT -> Ability Improvement +2 DEX -> Dual Wielder or Ability Improvement +2 DEX
+* Feat order: Ability Improvememt +2 INT -> Ability Improvement +2 DEX -> Ability Improvement +2 DEX or Dual Wielder
+* TIP: Dual wield weapons in order to use Bonus Action
+* TIP: Get Bhaalist Armour in Act 3
 
 ## Abjuration / Conjuration / Divination / Enchantment / Evocation / Illusion / Transmutation Wizard 12
 

@@ -24,6 +24,7 @@
 * Level order: Monk 8 -> on level 9 respec to Monk 6 + Rogue 3 -> Rogue 4 -> Fighter 2
 * Feat order: Tavern Brawler +1 CON -> Ability Improvement +2 DEX
 * NOTE: Consume Elixir of Hill Giant (or Cloud Giant) Strength every Long Rest
+* NOTE: You may choose Way of Shadow subclass for Monk instead in order to abuse hiding in Darkness tactic
 
 ## Berserker Barbarian 5 + Thief Rogue 4 + Eldritch Knight Fighter 3, aka "Throw Barbarian"
 

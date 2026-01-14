@@ -13,3 +13,11 @@
 11. Githyanki, Battle Master Fighter, only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
 13. Deep Gnome, "BONK Domain Cleric", Honour Mode (with reloads) and with the "worst" classes (Cleric, Rogue, Druid, Ranger) - IN PROCESS
+
+Should try out:
+
+- Astarion, Arcane Trickster, Honour Mode solo
+- Pure Wizard subclasses, except for Necromancy and Evocation
+- Paladin sublasses, except for Oathbreaker (so also never break an oath)
+- Bard subclasses, except for College of Swords
+- Spore Druid 

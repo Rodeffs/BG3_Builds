@@ -11,7 +11,7 @@
 9. Duergar, Way of Shadow Monk, solo with no companions or hirelings - COMPLETED
 10. High Half-Elf, "Magic Missile Wizard", only do damage with Magic Missile and Artistry of War - IN PROCESS
 11. Githyanki, Battle Master Fighter, only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
-12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - IN PROCESS
+12. Half-Orc, The Dark Urge, "Critlock", Honour Mode (with reloads) solo with no companions or hirelings - ADANDONED AT THE FINAL FIGHT (softlocked)
 13. Deep Gnome, "BONK Domain Cleric", Honour Mode (with reloads) and with the "worst" classes (Cleric, Rogue, Druid, Ranger) - IN PROCESS
 
 Should try out:

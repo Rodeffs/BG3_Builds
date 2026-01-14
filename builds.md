@@ -276,6 +276,16 @@
 * Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk
 * TIP: Cast Rage on the first turn, then on the second use your Wild Shape
 
+## Bladesinging Wizard 12
+
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
+* Feat order: Ability Improvememt +2 INT -> Ability Improvement +2 DEX -> Dual Wielder or Ability Improvement +2 DEX
+
+## Abjuration / Conjuration / Divination / Enchantment / Evocation / Illusion / Transmutation Wizard 12
+
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 15+2 INT, 10 WIS, 8 CHR
+* Feat order: Ability Improvememt +2 INT -> Dual Wielder -> Alert
+
 ## War Domain Cleric 11 + Druid 1, aka "BONK Domain Cleric"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR

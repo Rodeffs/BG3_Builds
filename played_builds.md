@@ -16,7 +16,6 @@
 
 Should try out:
 
-- Astarion, Arcane Trickster, solo
 - Honour Mode pure Wizard party: Bladesinging, Divination, Illusion, Conjuration
 - Paladin sublasses, except for Oathbreaker (so also never break an oath)
 - Bard subclasses, except for College of Swords

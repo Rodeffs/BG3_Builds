@@ -42,17 +42,17 @@
 * Feat order: Tavern Brawler +1 CON -> Ability Improvement +2 DEX -> Ability Improvement +2 WIS
 * NOTE: Consume Elixir of Hill Giant (or Cloud Giant) Strength every Long Rest
 
-## Oathbreaker Paladin 7 + Hexblade Warlock 5, aka "Waradin"
+## Any Paladin 7 + Hexblade Warlock 5, aka "Waradin"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Paladin 1 -> Warlock 1 -> Paladin 7 -> Warlock 5
 * Feat order: Great Weapon Master -> Savage Attacker or Ability Improvement +2 CHR
 * Fighting Style: Great Weapon Fighting
 * Pact Boon: Pact of the Blade
-* Honour Mode variant: Oathbreaker Paladin 11 + Hexblade Warlock
+* Honour Mode variant: Any Paladin 11 + Hexblade Warlock
 * Honour Mode level order: Paladin 1 -> Warlock 1 -> Paladin 11
 
-## College of Swords Bard 10 + Oath of Vengeance Paladin 2, aka "Bardadin"
+## College of Swords Bard 10 + Any Paladin 2, aka "Bardadin"
 
 * Starting Abilities: 8 STR, 15+2 DEX, 14 CON, 8 INT, 10 WIS, 15+1 CHR
 * Level order: Bard 6 -> Paladin 2 -> Bard 10

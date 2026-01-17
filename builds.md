@@ -62,6 +62,14 @@
 * TIP: Get Bhaalist Armour in Act 3
 * TIP: Set all Divine Smites to ask in reactions menu
 
+## Any Paladin 12
+
+* Starting Abilities: 14+2 STR, 14 DEX, 10 CON, 8 INT, 10 WIS, 15+1 CHR
+
+* Feat order: Ability Improvement +2 STR -> Great Weapon Master -> Ability Improvement +2 STR
+* Fighting Style: Two-Weapon Fighting
+* TIP: Set all Divine Smites to ask in reactions menu
+
 ## Giant Barbarian 12
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR

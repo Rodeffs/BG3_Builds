@@ -72,7 +72,7 @@
 
 ## Giant Barbarian 12
 
-* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
+* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Tavern Brawler +1 STR -> Athlete +1 STR -> Dual Wielder
 * TIP: you may also take 2 levels of Fighter for Action Surge
 * Equipment:
@@ -249,7 +249,7 @@
 
 ## Wildheart Barbarian 12
 
-* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
+* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker
 * Bestial Heart: Wolf or Bear
 * Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk

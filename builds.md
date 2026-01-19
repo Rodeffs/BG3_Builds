@@ -199,6 +199,7 @@
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
+* Fighting Style: Great Weapon Fighting or Defence
 * Essential Spells: Booming Blade
 * Good Spells: Shield, Longstrider, Feather Fall, Enhancd Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
 * TIP: Your first attack must always be Booming Blade in order to trigger War Magic passive from level 7
@@ -211,7 +212,7 @@
 
 * Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
-* Fighting Style: Great Weapon Fighting
+* Fighting Style: Great Weapon Fighting or Defence
 * Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Attack, Riposte, Menacing Attack, Feinting Attack, Distracting Strike
 * Equipment:
     * Act 2: Selune's or Shar's Spear

@@ -17,6 +17,5 @@
 
 Should try:
 
-- Paladin sublasses, without breaking oath
-- Bard subclasses, except for College of Swords
+- Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
 - Spore Druid (not sure)

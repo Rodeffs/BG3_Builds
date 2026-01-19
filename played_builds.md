@@ -10,13 +10,13 @@
 8. Wood Half-Elf, The Dark Urge, Swashbuckler Rogue, Tactician - COMPLETED
 9. Duergar, Way of Shadow Monk, Tactician, solo with no companions or hirelings - COMPLETED
 10. High Half-Elf, "Magic Missile Wizard", Tactician, only do damage with Magic Missile and Artistry of War - ABANDONED IN ACT 2 (got bored and instead did the 14th run)
-11. Githyanki, Battle Master Fighter, Tactician, only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
+11. Githyanki, Battle Master Fighter, Tactician, only deal melee damage (throwing potions to heal and throwing to trigger objects is allowed) and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Custom Mode (failed Honour Mode), solo with no companions or hirelings - ADANDONED AT THE FINAL FIGHT (softlocked)
 13. Deep Gnome, "BONK Domain Cleric", Custom Mode (Honour Mode rules but with multiple saves) - IN PROCESS
 14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
 
 Should try:
 
-- Paladin sublasses, except for Oathbreaker (so also never break an oath)
+- Paladin sublasses, without breaking oath
 - Bard subclasses, except for College of Swords
-- Spore Druid 
+- Spore Druid (not sure)

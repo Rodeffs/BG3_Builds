@@ -13,7 +13,7 @@
 11. Githyanki, Battle Master Fighter, Tactician, only deal melee damage and don't cast any cantrips or spells, except Karsus' Compulsion - IN PROCESS
 12. Half-Orc, The Dark Urge, "Critlock", Custom Mode (failed Honour Mode), solo with no companions or hirelings - ADANDONED AT THE FINAL FIGHT (softlocked)
 13. Deep Gnome, "BONK Domain Cleric", Custom Mode (Honour Mode rules but with multiple saves) - IN PROCESS
-14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - IN PROCESS
+14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
 
 Should try:
 

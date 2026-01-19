@@ -68,7 +68,7 @@
 * Feat order: Ability Improvement +2 STR -> Great Weapon Master -> Ability Improvement +2 STR or Alert
 * Fighting Style: Great Weapon Fighting
 * TIP: Set all Divine Smites to ask in reactions menu
-* NOTE: If you plan to take Ethel's buff, then the starting Abilities are: 15+2 STR, 14 DEX, 12 CON, 8 INT, 10 WIS, 13+1 CHR
+* NOTE: If you plan to take Ethel's buff for +1 STR, then the starting Abilities are: 15+2 STR, 14 DEX, 12 CON, 8 INT, 10 WIS, 13+1 CHR
 
 ## Giant Barbarian 12
 

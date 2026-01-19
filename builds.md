@@ -201,7 +201,7 @@
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
 * Fighting Style: Great Weapon Fighting or Defence
 * Essential Spells: Booming Blade
-* Good Spells: Shield, Longstrider, Feather Fall, Enhanced Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
+* Good Spells: Shield, Longstrider, Feather Fall, Enhance Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
 * TIP: Your first attack must always be Booming Blade in order to trigger War Magic passive from level 7
 * Equipment:
     * Act 2: Selune's or Shar's Spear

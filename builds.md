@@ -197,7 +197,7 @@
 
 ## Eldritch Knight Fighter 12
 
-* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
 * Essential Spells: Booming Blade
 * Good Spells: Shield, Longstrider, Feather Fall, Enhancd Leap, Enlarge/Reduce, Misty Step, Mirror Image, Magic Weapon, Blur
@@ -209,7 +209,7 @@
 
 ## Battle Master Fighter 12
 
-* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert -> Savage Attacker
 * Fighting Style: Great Weapon Fighting
 * Battle Manoeuvres: Trip Attack, Disarming Attack, Precision Attack, Riposte, Menacing Attack, Feinting Attack, Distracting Strike

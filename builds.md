@@ -64,8 +64,8 @@
 
 ## Any Paladin 12
 
-* Starting Abilities: 14+2 STR, 14 DEX, 10 CON, 8 INT, 10 WIS, 15+1 CHR
-* Feat order: Ability Improvement +2 STR or Heavy Armour Master -> Great Weapon Master -> Ability Improvement +2 STR or Alert
+* Starting Abilities: 14+2 STR, 10 DEX, 14 CON, 8 INT, 10 WIS, 15+1 CHR
+* Feat order: Alert -> Ability Improvement +2 STR -> Great Weapon Master
 * Fighting Style: Great Weapon Fighting
 * TIP: Set all Divine Smites to ask in reactions menu
 

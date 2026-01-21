@@ -18,5 +18,5 @@
 Should try:
 
 - Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
-- Drow, Gloom Stalker Ranger, The Dark Urge, Honour Mode, solo with no companions or hirelings
+- Drow, Gloom Stalker Ranger, The Dark Urge, Honour Mode, solo with no companions or hirelings and no multiclassing
 - Spore Druid (not sure)

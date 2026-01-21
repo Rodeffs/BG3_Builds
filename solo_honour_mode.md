@@ -18,3 +18,12 @@
 * Natural Explorer: Wasteland Wandered: Fire -> Wasteland Wanderer: Poison
 * Fighting Style: Archery
 * Spells: Fog Cloud, Enhance Leap, Longstrider
+* Equipment:
+    * Act 1: Strange Conduit Ring, Knife of Undermountain King
+    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl
+    * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak
+* Elixir: Elixir of Viciousness
+
+## Playthrough
+
+

@@ -184,7 +184,7 @@
 
 ## Gloom Stalker Ranger 5 + Assassin Rogue 4 + Arcane Archer Fighter 3, aka "Gloom Assassin"
 
-* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 14 INT, 10 WIS, 8 CHR
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 14 WIS, 8 CHR
 * Level order: Ranger 5 -> Rogue 4 -> Fighter 3
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX
 * Favoured Enemy: Ranger Knight (access to Heavy Armour)
@@ -196,6 +196,19 @@
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
 * TIP: Get Eversight Ring in Act 2
 * TIP: Cast Fog Cloud then hide in it with Bonus Action. Every turn step out of it, shoot, then hide back in. With Eversight Ring you won't have to step out
+
+## Gloom Stalker Ranger 12
+
+* Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 14 WIS, 8 CHR
+* Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert
+* Favoured Enemy: Ranger Knight (access to Heavy Armour)
+* Natural Explorer: Wasteland Wandered: Fire or Poison
+* Fighting Style: Archery
+* Essential Spells: Fog Cloud
+* Equipment:
+    * Act 2: Eversight Ring
+    * Act 3: Bhaalist Armour
+* TIP: Cast Fog Cloud, then hide in it with Bonus Action. Every turn step out of it, shoot, then step back in. With Eversight Ring you won't need to step out. After you get Bhaalist Armour and Crossbow Expert, cast Fog Cloud directly on enemies and shoot them point blank
 
 ## Eldritch Knight Fighter 12
 

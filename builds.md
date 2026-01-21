@@ -206,9 +206,10 @@
 * Fighting Style: Archery
 * Essential Spells: Fog Cloud
 * Equipment:
-    * Act 2: Eversight Ring
-    * Act 3: Bhaalist Armour
-* TIP: Cast Fog Cloud, then hide in it with Bonus Action. Every turn step out of it, shoot, then step back in. With Eversight Ring you won't need to step out. After you get Bhaalist Armour and Crossbow Expert, cast Fog Cloud directly on enemies and shoot them point blank
+    * Act 1: Strange Conduit Ring, Knife of the Undermountain King
+    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet
+    * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak, Sarevok's Horned Helmet
+* TIP: Cast Fog Cloud, then hide in it with Bonus Action. Every turn step out of it, shoot, then step back in. With Eversight Ring you won't need to step out. After you get Bhaalist Armour and Crossbow Expert, cast Fog Cloud directly on enemies and shoot them point blank with a heavy crossbow
 
 ## Eldritch Knight Fighter 12
 

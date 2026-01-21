@@ -192,7 +192,10 @@
 * Fighting Style (Ranger): Archery
 * Fighting Style (Fighter): Defence
 * Arcane Shots: Bursting Arrow, Shadow Arrow, Seeking Arrow
+* Essential Spells: Fog Cloud
 * TIP: Surprise enemies as often as possible in order to attack 7 times in the first turn, all critical and all with advantage
+* TIP: Get Eversight Ring in Act 2
+* TIP: Cast Fog Cloud then hide in it with Bonus Action. Every turn step out of it, shoot, then hide back in. With Eversight Ring you won't have to step out
 
 ## Eldritch Knight Fighter 12
 

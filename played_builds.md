@@ -18,5 +18,5 @@
 Should try:
 
 - Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
-- "Gloom Assassin" Honour Mode solo with no companions or hirelings
+- Drow "Gloom Assassin" Honour Mode solo with no companions or hirelings
 - Spore Druid (not sure)

@@ -11,9 +11,10 @@
 
 * Class: Gloom Stalker Ranger
 * Race: Drow (to get Darkness)
+* Background: The Dark Urge (to make Orin fight beatable)
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 8 INT, 14 WIS, 8 CHR
 * Feats: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert
-* Favoured Enemy: Ranger Knight
+* Favoured Enemy: Ranger Knight (for heavy armour)
 * Natural Explorer: Wasteland Wandered: Fire -> Wasteland Wanderer: Poison
 * Fighting Style: Archery
 * Spells: Fog Cloud, Enhance Leap, Longstrider

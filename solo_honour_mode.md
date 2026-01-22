@@ -75,7 +75,7 @@ With Kar'niss you must first kill him and only then the other fanatics, otherwis
 
 With Malus you must first kill the nurses before dealing with him, otherwise he will kill you with Wail of Loss. If he resurrects a nurse, kill her and only then damage Malus
 
-With Thisobald you either defeat him in dialogue or spam elemental spells or elemental arrows at him in combat
+With Thisobald you must spam elemental spells or elemental arrows at him first in order to make him vulnerable to piercing damage
 
 Do not go to Isobel until you've bought 60~80 Smokepowder Bombs (for both Myrkul and the Netherbrain) from Quartermaster Talli at the Last Light Inn. Abuse Partial Long Rests to constantly refresh her stock
 

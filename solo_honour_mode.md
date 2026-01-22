@@ -20,7 +20,7 @@
 * Spells: Fog Cloud, Enhance Leap, Longstrider
 * Equipment:
     * Act 1: Strange Conduit Ring, Knife of Undermountain King
-    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl
+    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak
 * Main weapons: Heavy crossbows
 * Elixir: Elixir of Viciousness

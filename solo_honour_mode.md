@@ -3,7 +3,7 @@
 ## Rules
 
 * No companions or hirelings in party at all times. Lae'zel must be disposed of at the beggining. If companions stay in camp, they can't be used to cast stuff like Warding Bond, Aid, etc
-* Attached followers (like Glut, The Emperor, Orpheus, etc) are allowed so long as they don't do damage. Besides, someone needs to cast Karsus' Compulsion. This includes summons via Find Familiar, Animate Dead, etc
+* Attached followers (like Glut, The Emperor, Orpheus, etc) are allowed as long as they don't do any damage. This includes summons via Find Familiar, Animate Dead, etc
 * Just for extra challenge, no respecs via Withers or multiclassing
 * Summoning allies against the Netherbrain is not allowed as well
 

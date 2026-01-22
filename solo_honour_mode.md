@@ -36,7 +36,7 @@
 * Keep track of the turn number in combat log. Fog Cloud lasts exactly for 10 turns including the turn you cast it on. So for instance if you cast it on turn 1, then you will need to recast it on turn 10, after that recast on turn 19, then 28 and so on. Rule of thumb: just add 9 to the turn number when you previously casted the Fog Cloud
 * ALWAYS have available spell slots before combat! Go to sleep as soon as you've run out of spell slots
 * Keep in mind that enemies with Counterspell will prevent you from casting Fog Cloud. You will need to bait out the Counterspell first with a cantrip
-* If shit goes bad, drink an invisibility potion, cast Umbral Shroud or do anything else to turn yourself invisible and flee combat! Speed potion are also good for this to Disengage and Rush away
+* If shit goes bad, drink an invisibility potion, cast Umbral Shroud or do anything else to turn yourself invisible and flee combat! Speed potion are also good for this to Disengage and Dash away
 * As a last resort, force reboot your PC to prevent save override
 
 ### Act 1

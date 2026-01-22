@@ -20,7 +20,7 @@
 * Spells: Fog Cloud, Enhance Leap, Longstrider
 * Equipment:
     * Act 1: Strange Conduit Ring, Knife of Undermountain King
-    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl, Surgeon's Subjugation Amulet
+    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak
 * Main weapons: Heavy crossbows
 * Elixir: Elixir of Viciousness
@@ -85,6 +85,19 @@ Notable enemies with Counterspell:
 You should ally with Gortash and not fight him as The Closed Fist of Bane will surely break your Fog Cloud concentration
 
 ### Orin Fight
+
+You will need at least:
+* Level 12
+* Surgeon's Subjugation Amulet
+* Bhaalist Armour
+* Crossbow Expert feat
+* Luck of the Far Realms or Killer's Sweetheart active
+
+The combat:
+1. Cast Fog Cloud directly on her and hide there with her
+2. On the next turn shoot her point-blank and make this hit a critical with either Luck of the Far Realms or Killer's Sweetheart. Now she will be paralysed due to Surgeon's Subjugation Amulet and you may quickly finish her
+
+This method also applies to Sarevok if you want to fight him
 
 ### The Finale
 

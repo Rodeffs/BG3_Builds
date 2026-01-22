@@ -49,29 +49,29 @@
 6. Continue progression as usual
 
 You should skip these encounters:
-    * Harpies at the north of the Grove, because they can stunlock you
-    * Beholder in the Underdark and the one in the bottle, because they will stunlock you
-    * Bulette in the Underdark, because you won't do any damage to it
-    * Grym at the Grymforge, unless you can position it under the hammer
-    * Lava elemental at the Grymforge, because it outheals you
+* Harpies at the north of the Grove, because they can stunlock you
+* Beholder in the Underdark and the one in the bottle, because they will stunlock you
+* Bulette in the Underdark, because you won't do any damage to it
+* Grym at the Grymforge, unless you can position it under the hammer
+* Lava elemental at the Grymforge, because it outheals you
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 
 Notable enemies with Counterspell:
-    * Gekh Coal in the Underdark
-    * Ghustil Stornugoss at the Creshe
-    * Varsh Ko'kuu at the Creshe
+* Gekh Coal in the Underdark
+* Ghustil Stornugoss at the Creshe
+* Varsh Ko'kuu at the Creshe
 
 ### Act 2
 
 The only encounter you should skip is the Shadow-Cursed Shambling Mound as it's immune to piercing
 
-With Thisobald you either defeat him in dialogue or spam elemental spells or arrows at him in combat
+With Thisobald you either defeat him in dialogue or spam elemental spells or elemental arrows at him in combat
 
 Otherwise play as usual
 
 Notable enemies with Counterspell:
-    * Z'rell at the Moonrise Towers
+* Z'rell at the Moonrise Towers
     
 ### Act 3
 

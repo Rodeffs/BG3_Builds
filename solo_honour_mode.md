@@ -91,7 +91,8 @@ Then do as follows:
     * Cast Karsus' Compulsion
     * Throw a Potion of Invisibility at the Illithid
     * Shoot an Arrow of Darkness under the Illithid but not directly at it
-    * Drink a Potion of Invisibility yourself and walk away from the potion you were initially standing
+    * Drink a Potion of Invisibility yourself
+    * Walk away from the potion you were initially standing
 10. On the third turn:
     * Get inside the portal with the Illithid
     * Misty Step as close to the Netherbrain as possible

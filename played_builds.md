@@ -14,9 +14,10 @@
 12. Half-Orc, The Dark Urge, "Critlock", Custom Mode (failed Honour Mode), solo with no companions or hirelings - ADANDONED AT THE FINAL FIGHT (softlocked)
 13. Deep Gnome, "BONK Domain Cleric", Custom Mode (Honour Mode rules but with multiple saves) - IN PROCESS
 14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
+15. Drow, The Dark Urge, Gloom Stalker Ranger, Honour Mode, solo with no companions or hirelings, no multiclassing and no respecs
 
 Should try:
 
 - Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
-- Drow, Gloom Stalker Ranger, The Dark Urge, Honour Mode, solo with no companions or hirelings, no multiclassing and no respecs
-- Spore Druid (not sure)
+- Wild Magic Sorcerer
+- Spore Druid

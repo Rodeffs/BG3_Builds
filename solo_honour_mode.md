@@ -41,6 +41,7 @@
 
 ### Act 1
 
+You will need to the following first so as to not fail the Grove questlines
 1. Farm XP until level 3
 2. Deal with Kagha by reading her notes in a chest behind the bookshelf and then getting evidence from the stump at the swamp
 3. Clear the avanpost where Withers sleeps
@@ -52,7 +53,7 @@ You should skip these encounters:
 * Harpies at the north of the Grove, because they can stunlock you
 * Beholder in the Underdark and the one in the bottle, because they will stunlock you
 * Bulette in the Underdark, because you won't do any damage to it
-* Grym at the Grymforge, unless you can position it under the hammer
+* Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
 * Lava elemental at the Grymforge, because it outheals you
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
@@ -66,14 +67,24 @@ Notable enemies with Counterspell:
 
 The only encounter you should skip is the Shadow-Cursed Shambling Mound as it's immune to piercing
 
+With Kar'niss you must first kill him and only then the other fanatics, otherwise he will kill you with Fanatic Retaliation
+
+With Malus you must first kill the nurses before dealing with him, otherwise he will kill you with Wail of Loss. If he resurrects a nurse, kill her and only then damage Malus
+
 With Thisobald you either defeat him in dialogue or spam elemental spells or elemental arrows at him in combat
 
 Otherwise play as usual
 
 Notable enemies with Counterspell:
 * Z'rell at the Moonrise Towers
+
+### Myrkul Fight
     
 ### Act 3
+
+You should ally with Gortash and not fight him as The Closed Fist of Bane will surely break your Fog Cloud concentration
+
+### Orin Fight
 
 ### The Finale
 

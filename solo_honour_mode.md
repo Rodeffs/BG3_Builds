@@ -58,6 +58,10 @@ You should skip these encounters:
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 
+Collect all the Smokepowder Barrels and Smokepowder Bombs you can. They can be found at Zhentarim Hideout, Goblin Camp and etc. This will be useful later
+
+You should also get Runepowder Barrel from Philomeen at the Grymforge by sneaking past her and stealing it. You may also rob her Runepowder Vial
+
 Notable enemies with Counterspell:
 * Gekh Coal in the Underdark
 * Ghustil Stornugoss at the Creshe
@@ -73,18 +77,45 @@ With Malus you must first kill the nurses before dealing with him, otherwise he 
 
 With Thisobald you either defeat him in dialogue or spam elemental spells or elemental arrows at him in combat
 
+Do not go to Isobel until you've bought 60~80 Smokepowder Bombs (for both Myrkul and the Netherbrain) from Quartermaster Talli at the Last Light Inn. Abuse Partial Long Rests to constantly refresh her stock
+
 Otherwise play as usual
 
 Notable enemies with Counterspell:
 * Z'rell at the Moonrise Towers
 
 ### Myrkul Fight
+
+You will need at least:
+* 1 Arrow of Fire or Alchemist's Fire
+* 1 Potion of Invisibility
+* 1 Potion of Speed
+* 1 Scroll of Misty Step
+* 30~40 Smokepowder Bombs
+
+Gather all of those items before going to the Mind Flayer Colony
+
+If you have Smokepowder Barrels or Runepowder Barrel, then you should also drink an Elixir of Hill Giant Strength and carry as many as possible with you
+
+Then do as follows:
+1. Before getting close to Ketheric, drink a Potion of Invisibility and get close to Nightsong
+2. Wait until invisibility wears off
+3. After the dialogue, throw a Potion of Speed at your feet and walk on top of the platform where Ketheric stands
+3. If you fight Ketheric first:
+    * Cast Fog Cloud and hide in it with Bonus Action
+    * On the following turns kill the illithid first and only then Ketheric. Don't forget to hide with Bonus Actiob
+4. When the Apostle of Myrkul spawns:
+    * Place all your bombs near it
+    * Misty Step away
+    * Shoot them either with an Arrow of Fire or throw an Alchemist's Fire at them
     
 ### Act 3
 
 You should skip Gortash fight by allying with him since The Closed Fist of Bane will surely break your Fog Cloud concentration
 
 You should also skip Viconia DeVir fight as her Heartwrench Action will break your Fog Cloud concentration and kill you. If you want to get to the Mirror of Loss, you should just drink a Potion of Invisibility, cast Knock on the door leading to it and get inside with a Potion of Invisibility again. To get out just use fast travel
+
+You should also get Runepowder Bomb from Wulbern and keep it for the Finale
 
 Otherwise you may progress as per usual
 
@@ -113,8 +144,10 @@ You will need at least:
 * 1 Scroll of Misty Step
 * 1 Scroll of Invulnerability Globe
 * 1 Arrow of Darkness
-* 1 Arrow of Fire
+* 1 Arrow of Fire or 1 Alchemist's Fire
 * 30~40 Smokepowder Bombs
+
+If you have Smokepowder Barrels, Runepowder Barrel or Runepowder Bomb, then you should also grab 2 Elixirs of Hill Giant Strength in order to carry them with you to the Netherbrain
 
 Then do as follows:
 1. Sneak through to the Morphic Pool without triggering unnecessary combat
@@ -141,5 +174,5 @@ Then do as follows:
     * Misty Step as close to the Netherbrain as possible
     * Place all your bombs near it
     * Cast Globe of Invulnerability such as it covers you but not the bombs or the brain
-    * Shoot the bombs with the Arrow of Fire
+    * Shoot the bombs with an Arrow of Fire or throw an Alchemist's Fire at them
     * If somehow by some miracle the brain survives, then wait until Lethargy wears off and finish off the brain 

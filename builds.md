@@ -139,7 +139,7 @@
 * NOTE: Thief Rogue is needed to be able to use Bonus Attack from Great Weapon Master 
 * Equipment:
     * Act 1: Strange Conduit Ring
-    * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet
+    * Act 2: Shar's Spear of Evening (or Selune's Spear of Night), Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Nyrulna, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 * EXPLANATION: Prior to battle, Pact Bind a spear or a trident and wear it with two hands. In combat, cast Darkness on enemies and hide in it yourself with Bonus Action. On the next turn (or on the same if you have Action Surge) attack the enemies thrice (twice on Honour Mode) and then again hide in Darkness with Bonus Action. With a 1d6 spear and 20 CHR a single critical strike will deal 96~126 damage without accounting for other equipment
 
@@ -155,7 +155,7 @@
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray)
+    * Act 2: Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray), Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"
@@ -169,7 +169,7 @@
 * TIP: Drink Elixir of Viciousness every Long Rest
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Killer's Sweetheart
+    * Act 2: Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## College of Swords Bard 6 + Thief Rogue 4 + Fighter 2, aka "Dual XBow"
@@ -207,7 +207,7 @@
 * Essential Spells: Fog Cloud
 * Equipment:
     * Act 1: Strange Conduit Ring, Knife of the Undermountain King
-    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet
+    * Act 2: Eversight Ring, Shadow-Cloaked Ring, Killer's Sweetheart, Covert Cowl, Dark Justiciar Helmet, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak, Sarevok's Horned Helmet
 * TIP: Cast Fog Cloud, then hide in it with Bonus Action. Every turn step out of it, shoot, then step back in. With Eversight Ring you won't need to step out. After you get Bhaalist Armour and Crossbow Expert, cast Fog Cloud directly on enemies and shoot them point blank with a heavy crossbow
 
@@ -242,7 +242,7 @@
 * Essential Spells: Fog Cloud and Darkness
 * Equipment:
     * Act 1: Knife of the Undermountain King, Strange Conduit Ring
-    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart
+    * Act 2: Eversight Ring, Covert Cowl, Shadow-Cloaked Ring, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterfish Gloves, Bloodthirst, Shade-Slayer Cloak
 * EXPLANATION: Wield a crossbow. In battle, cast either Fog Cloud or Darkness then hide in it. On the next turn, step out of it, attack an enemy then hide back in. Once you get Eversight Ring, you can attack enemies straight out of Fog Cloud or Darkness. After getting Crossbow Expert and Bhaalist Armour, cast Fog Cloud or Darkness directly on enemies and on the next turn shoot them point-blank. In that condition, a critical hit with a 1d10 heavy crossbow and 20 DEX will deal 88~244 damage without accounting for other equipment
 

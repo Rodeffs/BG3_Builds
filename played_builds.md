@@ -2,7 +2,7 @@
 
 1. Asmodeus Tiefling, Evocation Wizard, Tactician - COMPLETED
 2. Wood Half-Elf, "Meatgrinder Monk", Tactician - ABANDONED IN ACT 3 (was coop)
-3. Human, The Dark Urge, "Waradin" (used Fiend subclass since Hexblade wasn't out yet), Tactician - COMPLETED
+3. Human, The Dark Urge, "Waradin" (used Oathbreaker Paladin and Fiend Warlock subclass since Hexblade wasn't out yet), Tactician - COMPLETED
 4. Drow, The Dark Urge, "Thor", Tactician - ABANDONED IN ACT 1 (got bored)
 5. Gale, Necromancer Wizard, Tactician - COMPLETED
 6. Gold Dragonborn, The Dark Urge, Draconic Bloodline: Red Sorcerer, Honour Mode - COMPLETED

@@ -82,7 +82,11 @@ Notable enemies with Counterspell:
     
 ### Act 3
 
-You should ally with Gortash and not fight him as The Closed Fist of Bane will surely break your Fog Cloud concentration
+You should skip Gortash fight by allying with him sincs The Closed Fist of Bane will surely break your Fog Cloud concentration
+
+You should also skip Viconia DeVir fight as her Heartwrench Action will break your Fog Cloud concentration and kill you. If you want to get to the Mirror of Loss, you should just drink a Potion of Invisibility, cast Knock on the door leading to it and get inside with a Potion of Invisibility again. To get out just use fast travel
+
+Otherwise you may progress as per usual
 
 ### Orin Fight
 
@@ -97,7 +101,7 @@ The combat:
 1. Cast Fog Cloud directly on her and hide there with her
 2. On the next turn shoot her point-blank and make this hit a critical with either Luck of the Far Realms or Killer's Sweetheart. Now she will be paralysed due to Surgeon's Subjugation Amulet and you may quickly finish her
 
-This method also applies to Sarevok if you want to fight him
+This method also works with Sarevok if you want to fight him
 
 ### The Finale
 

@@ -35,6 +35,7 @@
     * If you have Bhaalist Armour and Crossbow Expert, cast Fog Cloud on top of enemies and shoot them point-blank
 * Keep track of the turn number in combat log. Fog Cloud lasts exactly for 10 turns including the turn you cast it on. So for instance if you cast it on turn 1, then you will need to recast it on turn 10, after that recast on turn 19, then 28 and so on. Rule of thumb: just add 9 to the turn number when you previously casted the Fog Cloud
 * ALWAYS have available spell slots before combat! Go to sleep as soon as you've run out of spell slots
+* Keep in mind that enemies with Counterspell will prevent you from casting Fog Cloud. You will need to bait out the Counterspell first with a cantrip
 * If shit goes bad, drink an invisibility potion, cast Umbral Shroud or do anything else to turn yourself invisible and flee combat! Speed potion are also good for this to Disengage and Rush away
 * As a last resort, force reboot your PC to prevent save override
 
@@ -45,23 +46,38 @@
 3. Clear the avanpost where Withers sleeps
 4. Farm XP until level 4
 5. Deal with Auntie Ethel and get +1 to DEX by sparing her
-6. Continue progression as usual, however you should skip these encounters:
+6. Continue progression as usual
+
+You should skip these encounters:
     * Harpies at the north of the Grove, because they can stunlock you
     * Beholder in the Underdark and the one in the bottle, because they will stunlock you
     * Bulette in the Underdark, because you won't do any damage to it
     * Grym at the Grymforge, unless you can position it under the hammer
     * Lava elemental at the Grymforge, because it outheals you
-7. Note for the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 
+For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
+
+Notable enemies with Counterspell:
+    * Gekh Coal in the Underdark
+    * Ghustil Stornugoss at the Creshe
+    * Varsh Ko'kuu at the Creshe
 
 ### Act 2
 
+The only encounter you should skip is the Shadow-Cursed Shambling Mound as it's immune to piercing
+
+With Thisobald you either defeat him in dialogue or spam elemental spells or arrows at him in combat
+
+Otherwise play as usual
+
+Notable enemies with Counterspell:
+    * Z'rell at the Moonrise Towers
+    
 ### Act 3
 
 ### The Finale
 
 You will need at least:
-
 * 6 Potions of Invisibility
 * 1 Potion of Speed
 * 1 Potion of Flight
@@ -73,7 +89,6 @@ You will need at least:
 * 30~40 Smokepowder Bombs
 
 Then do as follows:
-
 1. Sneak through to the Morphic Pool without triggering unnecessary combat
 2. Get The Emperor or Orpheus as an illithid on your party (will be further referred to as the Illithid)
 3. Sneak through to the building with allies without triggering the fight with the gith

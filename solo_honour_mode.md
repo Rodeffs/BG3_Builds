@@ -82,20 +82,20 @@ Then do as follows:
 6. Run through the enemies to the High Hall
 7. There drink a Potion of Flight, Dash and fly to the Netherbrain stem and climb it
 8. On the first turn of combat:
-    a. Drink a Potion of Speed
-    b. Teleport yourself and the Illithid as close to the brain as possible with Dimension Door
-    c. Throw a Potion of Invisibility at the Illithid and at yourself
-    d. Walk even closer to the brain away from the position you were initially standing
+    * Drink a Potion of Speed
+    * Teleport yourself and the Illithid as close to the brain as possible with Dimension Door
+    * Throw a Potion of Invisibility at the Illithid and at yourself
+    * Walk even closer to the brain away from the position you were initially standing
 9. On the second turn:
-    a. Bait the enemy illithids to cast Counterspell with a cantrip or any spell
-    b. Cast Karsus' Compulsion
-    c. Throw a Potion of Invisibility at the Illithid
-    d. Shoot an Arrow of Darkness under the Illithid but not directly at it
-    e. Drink a Potion of Invisibility yourself and walk away from the potion you were initially standing
+    * Bait the enemy illithids to cast Counterspell with a cantrip or any spell
+    * Cast Karsus' Compulsion
+    * Throw a Potion of Invisibility at the Illithid
+    * Shoot an Arrow of Darkness under the Illithid but not directly at it
+    * Drink a Potion of Invisibility yourself and walk away from the potion you were initially standing
 10. On the third turn:
-    a. Get inside the portal with the Illithid
-    b. Misty Step as close to the Netherbrain as possible
-    c. Place all your bombs near it
-    d. Cast Globe of Invulnerability such as it covers you but not the bombs or the brain
-    e. Shoot the bombs with the Arrow of Fire
-    f. If somehow by some miracle the brain survives, then wait until Lethargy wears off and finish off the brain 
+    * Get inside the portal with the Illithid
+    * Misty Step as close to the Netherbrain as possible
+    * Place all your bombs near it
+    * Cast Globe of Invulnerability such as it covers you but not the bombs or the brain
+    * Shoot the bombs with the Arrow of Fire
+    * If somehow by some miracle the brain survives, then wait until Lethargy wears off and finish off the brain 

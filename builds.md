@@ -152,10 +152,11 @@
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Essential Spells: Eldritch Blast, Darkness
 * TIP: Cast Darkness and then spam Eldritch Blast out of it. Also, drink Elixir of Viciousness every Long Rest
+* TIP: Save Alfira until Act 2 and complete her quest to get Potent Robe
 * NOTE: If you go fire Draconic Bloodline, then you may also use Scorching Ray as an alternative to Eldritch Blast for higher damage
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray), Surgeon's Subjugation Amulet
+    * Act 2: Potent Robe, Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray), Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"
@@ -167,9 +168,10 @@
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Essential Spells: Eldritch Blast, Darkness
 * TIP: Drink Elixir of Viciousness every Long Rest
+* TIP: Save Alfira until Act 2 and complete her quest to get Potent Robe
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 2: Potent Robe, Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
 ## College of Swords Bard 6 + Thief Rogue 4 + Fighter 2, aka "Dual XBow"
@@ -330,8 +332,9 @@
 * Pact Boon: Pact of the Chain
 * Essential Spells: Eldritch Blast, Darkness
 * TIP: Drink Elixir of Viciousness every Long Rest
+* TIP: Save Alfira until Act 2 and complete her quest to get Potent Robe
 * TIP: Summon a Quasit or an Imp and surprise attack enemies from invisibility. Use this turn to cast Darkness and stand in it. On the following turns just attack enemies with Eldritch Blasts without leaving Darkness
 * Equipment:
     * Act 1: Knife of the Undermountain King
-    * Act 2: Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 2: Potent Robe, Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot

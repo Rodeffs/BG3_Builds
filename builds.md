@@ -166,9 +166,11 @@
 * Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Alert
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
+* Pact Boon: Pact of the Chain
 * Essential Spells: Eldritch Blast, Darkness
 * TIP: Drink Elixir of Viciousness every Long Rest
 * TIP: Save Alfira until Act 2 and complete her quest to get Potent Robe
+* TIP: Surprise attack enemies with a quasit or an imp from invisibility. Then attack enemies with Eldritch Blasts which will all be critical thanks to Assassin. On the next turn, cast Darkness and hide in it with bonus Action. In the following turns, just attack enemies with Eldritch Blast out of Darkness and hide in it with Bonus Action 
 * Equipment:
     * Act 1: Knife of the Undermountain King
     * Act 2: Potent Robe, Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet

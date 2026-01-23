@@ -162,7 +162,7 @@
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> on level 4 respec to Rogue 1 + Warlock 3 -> Rogue 2 -> Warlock 4 -> Rogue 4 -> on level 9 respec to Fighter 1 + Rogue 4 + Warlock 4 -> Fighter 4
-* Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Lucky
+* Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Alert
 * Illithid Powers: Luck of the Far Realms, Favourable Beginnings
 * Eldritch Invocations: Agonising Blast and Devil's Sight
 * Essential Spells: Eldritch Blast, Darkness
@@ -321,11 +321,17 @@
 * EXPLANATION: Wield a staff with two hands, enchant it with Shillelagh and then just run at enemies and BONK them
 * NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive. In that case, for the level 12 feat take Alert, War Caster or Savage Attacker
 
-## The Fiend / The Great Old One / The Archfey Warlock 12
+## The Great Old One Warlock 12
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
-* Feat order: Ability Improvement +2 CHR -> War Caster -> Alert
-* Eldritch Invocations: Agonising Blast, Armour of Shadows, Devil's Sight, Repelling Blast
+* Feat order: Ability Improvement +2 CHR -> Spell Sniper -> Alert
+* Illithid Powers: Luck of the Far Realms, Favourable Beginnings
+* Eldritch Invocations: Agonising Blast -> Devil's Sight -> Armour of Shadows -> Repelling Blast -> Anything else
 * Pact Boon: Pact of the Chain
-* Essential Spells: Eldritch Blast, Hex, Darkness
-* TIP: Summon a Quasit or an Imp and surprise attack enemies. Next, cast either Hex or Darkness and begin spamming Eldritch Blast on enemies
+* Essential Spells: Eldritch Blast, Darkness
+* TIP: Drink Elixir of Viciousness every Long Rest
+* TIP: Summon a Quasit or an Imp and surprise attack enemies from invisibility. Use this turn to cast Darkness and stand in it. On the following turns just attack enemies with Eldritch Blasts without leaving Darkness
+* Equipment:
+    * Act 1: Knife of the Undermountain King
+    * Act 2: Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
+    * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot

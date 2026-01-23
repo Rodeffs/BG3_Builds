@@ -159,7 +159,7 @@
     * Act 2: Potent Robe, Covert Cowl, Killer's Sweetheart, Hat of Fire Acuity (for Scorching Ray), Surgeon's Subjugation Amulet
     * Act 3: Bloodthirst, Craterflesh Gloves, The Dead Shot, Shade-Slayer Cloak, Sarevok's Horned Helmet
 
-## The Great Old One Warlock 4 + Champion Fighter 4 + Assassin Rogue 4, aka "Eldritch Blaster 2.0"
+## The Great Old One Warlock 4 + Assassin Rogue 4 + Champion Fighter 4, aka "Eldritch Blaster 2.0"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
 * Level order: Warlock 3 -> on level 4 respec to Rogue 1 + Warlock 3 -> Rogue 2 -> Warlock 4 -> Rogue 4 -> on level 9 respec to Fighter 1 + Rogue 4 + Warlock 4 -> Fighter 4

@@ -329,7 +329,7 @@
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS -> Alert or Savage Attacker
-* Essential Spells: Shullelagh
+* Essential Spells: Shillelagh
 * EXPLANATION: Wield a staff with two hands, activate Symbiotic Entity, cast Shillelagh and then simply run at enemies and attack them
 
 ## The Great Old One Warlock 12

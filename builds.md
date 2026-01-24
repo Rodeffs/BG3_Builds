@@ -325,6 +325,13 @@
 * EXPLANATION: Wield a staff with two hands, enchant it with Shillelagh and then just run at enemies and BONK them
 * NOTE: If you don't want to multiclass, you may just go full Nature Domain Cleric 12. It too has Shillelagh, but you will lose extra attacks gained from War Priest passive. In that case, for the level 12 feat take Alert, War Caster or Savage Attacker
 
+## Circle of the Spores Druid 12
+
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
+* Feat order: Great Weapon Master -> Ability Improvement +2 WIS -> Alert or Savage Attacker
+* Essential Spells: Shullelagh
+* EXPLANATION: Wield a staff with two hands, activate Symbiotic Entity, cast Shillelagh and then simply run at enemies and attack them
+
 ## The Great Old One Warlock 12
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR

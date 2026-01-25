@@ -58,6 +58,8 @@ You should skip these encounters:
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 
+Be careful while getting the Blood of Lathander the traps might push you into the chasm
+
 Collect all the Smokepowder Barrels and Smokepowder Bombs you can. They can be found at Zhentarim Hideout, Goblin Camp and etc. This will be useful later
 
 You should also get Runepowder Barrel from Philomeen at the Grymforge by sneaking past her and stealing it. You may also rob her Runepowder Vial

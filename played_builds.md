@@ -1,7 +1,7 @@
 # List of character builds that I played in chronological order
 
 1. Asmodeus Tiefling, Evocation Wizard, Tactician - COMPLETED
-2. Wood Half-Elf, "Meatgrinder Monk", Tactician - ABANDONED IN ACT 3 (was coop)
+2. Wood Half-Elf, "Meatgrinder Monk", Tactician, coop - ABANDONED IN ACT 3 (got bored)
 3. Human, The Dark Urge, "Waradin" (used Oathbreaker Paladin and Fiend Warlock subclass since Hexblade wasn't out yet), Tactician - COMPLETED
 4. Drow, The Dark Urge, "Thor", Tactician - ABANDONED IN ACT 1 (got bored)
 5. Gale, Necromancer Wizard, Tactician - COMPLETED

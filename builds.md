@@ -330,12 +330,13 @@
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 WIS -> Alert or Savage Attacker
 * Essential Spells: Shillelagh
+* Good Spells: Fairie Fire, Longstrider, Blindness, Animate Dead, Conjure Woodland Being
 * EXPLANATION: Wield a staff with two hands, activate Symbiotic Entity, cast Shillelagh and then simply run at enemies and attack them
-* TIP: You should also use Faerie Fire to get Advantage since your chance of hitting will probably be pretty low
-* TIP: Also use summons from Animate Dead, Fungal Infestation and especially Dryad from Conjure Woodland Being. She does essentially the same thing as you but better and also is immune to Abyss Beckoners downside as well as ghouls from Animate Dead
+* NOTE: Your Attack Rolls will most likely be low, so sources of Advantage like Faerie Fire or other bonuses are of great help
+* NOTE: Dryad from Conjure Woodland Being does essentially the same thing as you but better and also is immune to Abyss Beckoners downside. Ghouls from Animate Dead are also immune to that
 * Equipment:
-    * Act 1: Abyss Beckoners, Cacophony, Gold Wyrmling Staff, Mourning Frost, Caustic Bond, Stange Conduit Ring
-    * Act 2: Circlet of Hunting, Dark Justiciar Gauntlets, Flawed Helldusk Gloves
+    * Act 1: Abyss Beckoners, Cacophony, Gold Wyrmling Staff, Mourning Frost, Caustic Bond, Stange Conduit Ring, Crusher's Ring
+    * Act 2: Circlet of Hunting, Dark Justiciar Gauntlets, Flawed Helldusk Gloves, Circle of Bones
     * Act 3: Armour of the Sporekeeper, Helldusk Gloves, Staff of Cherished Necromancy, Staff of the Ram, Khalid's Gift
 
 ## The Great Old One Warlock 12

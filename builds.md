@@ -270,7 +270,7 @@
 
 ## Wildheart Barbarian 12
 
-* Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
+* Starting Abilities: 15+2 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker
 * Variants:
     * Tank:

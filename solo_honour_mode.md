@@ -41,7 +41,7 @@
 
 ### Act 1
 
-You will need to the following first so as to not fail the Grove questlines
+Recommended route:
 1. Farm XP until level 3
 2. Deal with Kagha by reading her notes in a chest behind the bookshelf and then getting evidence from the stump at the swamp
 3. Clear the avanpost where Withers sleeps
@@ -58,7 +58,9 @@ You should skip these encounters:
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 
-Be careful while getting the Blood of Lathander the traps might push you into the chasm
+Be careful while getting the Blood of Lathander, the traps might push you into the chasm
+
+The same may happen in the fight with the duergar on the rafts in Underdark if you don't hide in Fog Cloud
 
 Collect all the Smokepowder Barrels and Smokepowder Bombs you can. They can be found at Zhentarim Hideout, Goblin Camp and etc. This will be useful later
 

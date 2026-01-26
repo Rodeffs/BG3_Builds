@@ -20,4 +20,4 @@ Should try:
 
 - Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
 - Wild Magic Sorcerer
-- Eagle Heart Barbarian
+- Gold Dwarf, Wildheart Barbarian (Eagle Heart, Animal Aspects: Stallion, Elk)

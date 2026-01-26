@@ -275,15 +275,16 @@
 * Variants:
     * Tank:
         * Bestial Heart: Bear (Resistance to everything apart from psychic)
-        * Aspect of the Beast: Tiger (increase chance of hitting) -> Elk or Honey Badger (eat rotten food to trigger)
+        * Aspect of the Beast: Tiger (increases Attack Rolls) or Wolverine (prevents movement) -> Elk (free movement speed) or Honey Badger (free Rage)
     * Team buffer:
         * Bestial Heart: Wolf (Advatage on Attack Rolls for allies)
-        * Aspect of the Beast: Tiger (increase chance of hitting) -> Elk
+        * Aspect of the Beast: Tiger (increases Attack Rolls) -> Elk (free movement speed)
     * Attacker:
         * Bestial Heart: Eagle (make enemies prone to get Advatage on Attack Rolls)
-        * Aspect of the Beast: Stallion -> Elk
+        * Aspect of the Beast: Stallion (free health from Dashing with Bonus Action) -> Elk (free movement speed)
 * TIP: For Eagle Heart, carry two crates with you and use them as elevation for Diving Strike
 * TIP: For Tiger and Wolverine Aspects, use poison coatings on weapons to trigger 
+* TIP: For Honey Badger Aspect, eat rotten food prior to combat in order to trigger
 
 ## Necromancy Wizard 12
 

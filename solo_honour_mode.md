@@ -107,7 +107,7 @@ Then do as follows:
 3. After the dialogue, throw a Potion of Speed at your feet and walk on top of the platform where Ketheric stands
 3. If you fight Ketheric first:
     * Cast Fog Cloud and hide in it with Bonus Action
-    * On the following turns kill the illithid first and only then Ketheric. Don't forget to hide with Bonus Actiob
+    * On the following turns kill the illithid first and only then Ketheric. Don't forget to hide with Bonus Action
 4. When the Apostle of Myrkul spawns:
     * Place all your bombs near it
     * Misty Step away

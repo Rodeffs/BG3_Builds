@@ -272,8 +272,9 @@
 
 * Starting Abilities: 15+2 STR, 14 DEX, 15+1 CON, 8 INT, 10 WIS, 8 CHR
 * Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Savage Attacker
-* Bestial Heart: Wolf or Bear
-* Aspect of the Beast: Tiger, Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk
+* Bestial Heart: Wolf (for advantage on melee attack rolls for allies), Bear (more tanky) or Eagle (for advatage on prone targets)
+* Aspect of the Beast: Tiger or Wolverine (use poison coatings for both), Honey Badger (eat rotten food to trigger), Elk, Stallion (with Eagle Heart)
+* TIP: If you have Eagle Heart, carry two crates with you and use them as elevation for Diving Strike 
 
 ## Necromancy Wizard 12
 

@@ -18,4 +18,4 @@
 
 Should try:
 
-- Gold Dwarf or Half-Orc, Wildheart Barbarian (Eagle Heart)
+- Half-Orc, Wildheart Barbarian (Eagle Heart)

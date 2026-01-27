@@ -18,4 +18,8 @@
 
 Should try:
 
-- Half-Orc, Wildheart Barbarian (Eagle Heart)
+- One class Honour Mode:
+    - Pure Barbarian party with different sublasses as Half-Orc Wildheart Barbarian (Eagle Heart)
+    - Pure Sorcerer party with different subclasses as White Dragonborn Storm Sorcery (default Dark Urge)
+    - Pure Cleric party
+    - Pure Paladin party

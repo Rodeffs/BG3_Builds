@@ -18,6 +18,4 @@
 
 Should try:
 
-- Oath of Devotion or Oath of the Ancients (played the other ones) Paladin
-- Mephistopheles Tiefling, Wild Magic Sorcerer
 - Gold Dwarf or Half-Orc, Wildheart Barbarian (Attacker variant)

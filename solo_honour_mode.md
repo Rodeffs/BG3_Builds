@@ -52,7 +52,6 @@ Recommended route:
 You should skip these encounters:
 * Harpies at the north of the Grove, because they can stunlock you
 * Beholder in the Underdark and the one in the bottle, because they will stunlock you
-* Bulette in the Underdark, because you won't do any damage to it
 * Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
 * Lava elemental at the Grymforge, because it outheals you
 

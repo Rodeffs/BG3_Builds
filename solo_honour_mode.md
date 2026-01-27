@@ -51,8 +51,11 @@ Recommended route:
 
 You should skip these encounters:
 * Harpies at the north of the Grove, because they can stunlock you
-* Beholder in the Underdark and the one in the bottle, because they will stunlock you
 * Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
+
+Against beholders, be sure to stay at least 20 meters from them to not get stunned by their spin attack
+
+Also, drink an Elixir of Vigilance against the beholder in the Underdark to not get surprised and stunned
 
 Against Bullette in the Underdark, Lava Elemental at the Grymforge and other enemies with HP regen, use Arrows of Illmater
 

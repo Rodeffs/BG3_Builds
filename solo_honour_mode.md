@@ -53,7 +53,8 @@ You should skip these encounters:
 * Harpies at the north of the Grove, because they can stunlock you
 * Beholder in the Underdark and the one in the bottle, because they will stunlock you
 * Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
-* Lava elemental at the Grymforge, because it outheals you
+
+Against Bullette in the Underdark, Lava Elemental at the Grymforge and other enemies with HP regen, use Arrows of Illmater
 
 For the undead enemies at the Mountain Pass: pick up the enemy corpses to prevent Death Shepherds from reanimating them
 

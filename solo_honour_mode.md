@@ -49,9 +49,9 @@ Recommended route:
 5. Deal with Auntie Ethel and get +1 to DEX by sparing her
 6. Continue progression as usual
 
-You should skip these encounters:
-* Harpies at the north of the Grove, because they can stunlock you
-* Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
+You should skip the fight with Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
+
+Only kill the harpies at the Secluded Cove after reaching level 5. This is because you need to kill them quickly before they get to sing and possibly charm you
 
 Against beholders, be sure to stay at least 20 meters from them to not get stunned by their spin attack
 

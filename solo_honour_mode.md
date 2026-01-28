@@ -87,7 +87,7 @@ With Thisobald you must spam elemental spells or elemental arrows at him first i
 
 Do not go to Isobel until you've bought 60~80 Smokepowder Bombs (for both Myrkul and the Netherbrain) from Quartermaster Talli at the Last Light Inn. Abuse Partial Long Rests to constantly refresh her stock
 
-Do not fight Yurgir as he can see through Fog Cloud and Darkness. Either convince him to kill himself or free him from his contract by killing mice
+Do not fight Yurgir as he can see through Fog Cloud and Darkness. Either convince him to kill himself or free him from his contract by killing all the mice
 
 Otherwise play as usual
 

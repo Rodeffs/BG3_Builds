@@ -295,12 +295,13 @@
     * Act 1: Abyss Beckoners (begin using them after unlocking Ghouls), Necromancy of Thay (read it)
     * Act 3: The Tharchiate Codex (read Necromancy of Thay again to get Danse Macabre, keep in mind that those ghouls are uncontrollable and get stuck everywhere due to poor pathfinding)
 
-## Swashbuckler Rogue 12
+## Swashbuckler / Thief Rogue 12
 
 * Starting Abilities: 8 STR, 15+2 DEX, 15+1 CON, 10 INT, 14 WIS, 8 CHR
 * Feat order: Sharpshooter -> Ability Improvement +2 DEX -> Crossbow Expert -> Anything else
 * TIP: Get Bhaalist Armour in Act 3
 * EXPLANATION: After getting Crossbow Expert and Bhaalist Armour, attack enemis at point-blank range with two hand crossbows. With two 1d6 hand crossbows and 20 DEX you will deal 66~146 damage per turn, provided that neither shot was critical
+* NOTE: If you're playing as Thief Rogue, first leave line of sight, Hide with your first Bonus Action, then approach enemies from behind and then double shoot them
 
 ## Circle of the Moon Druid 12
 

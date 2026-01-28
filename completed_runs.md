@@ -15,11 +15,11 @@
 13. Deep Gnome, Circle of the Spores Druid, Custom Mode (Honour Mode rules but with multiple saves), pure Druid party with all the subclasses - IN PROCESS
 14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
 15. Drow, The Dark Urge, Gloom Stalker Ranger, Custom Mode (failed Honour Mode), solo with no companions or hirelings, no multiclassing and no respecs - IN PROCESS
+16. Half-Orc, Wildheart Barbarian, Honour Mode, pure Barbarian party with all the subclasses - IN PROCESS
 
 Should try:
 
 - One class Honour Mode:
-    - Pure Barbarian party with different sublasses as Half-Orc or Gold Dwarf Wildheart Barbarian (Eagle Heart)
     - Pure Sorcerer party with different subclasses as White Dragonborn Storm Sorcery (default Dark Urge)
     - Pure Cleric party (Death, Light, Tempest, War) as Tempest Domain Cleric
     - Pure Warlock party with different subclasses

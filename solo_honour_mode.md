@@ -120,7 +120,7 @@ Then do as follows:
 
 You should skip Gortash fight by allying with him since The Closed Fist of Bane will surely break your Fog Cloud concentration
 
-You should also skip Viconia DeVir fight as her Heartwrench Action will break your Fog Cloud concentration and kill you. If you want to get to the Mirror of Loss, you should just drink a Potion of Invisibility, cast Knock on the door leading to it and get inside with a Potion of Invisibility again. To get out just use fast travel
+You should also skip Viconia DeVir fight as she and her sharrans can see through both Fog Cloud and Darkness. If you want to get to the Mirror of Loss, you should just drink a Potion of Invisibility, cast Knock on the door leading to it and get inside with a Potion of Invisibility again. To get out just use fast travel
 
 You should also get Runepowder Bomb from Wulbern and keep it for the Finale
 

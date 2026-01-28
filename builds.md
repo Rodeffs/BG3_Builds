@@ -65,7 +65,7 @@
 ## Any Paladin 12
 
 * Starting Abilities: 14+2 STR, 10 DEX, 14 CON, 8 INT, 10 WIS, 15+1 CHR
-* Feat order: Alert -> Ability Improvement +2 STR -> Great Weapon Master
+* Feat order: Alert -> Heavy Armour Master (if took +1 STR buff from Ethel) or Ability Improvement +2 STR (if didn't) -> Great Weapon Master
 * Fighting Style: Great Weapon Fighting
 * TIP: Set all Divine Smites to ask in reactions menu
 
@@ -285,6 +285,17 @@
 * TIP: For Eagle Heart, carry two crates with you and use them as elevation for Diving Strike
 * TIP: For Tiger and Wolverine Aspects, use poison coatings on weapons to trigger 
 * TIP: For Honey Badger Aspect, eat rotten food prior to combat in order to trigger
+
+## Knowledge / Life / Light / Nature / Tempest / Trickery Domain Cleric 12
+
+* Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
+* Feat order: Ability Improvement +2 WIS -> War Caster -> Alert
+
+## Death / War Domain Cleric 12
+
+* Starting Abilities: 14+2 STR, 14 DEX, 12 CON, 8 INT, 15+1 WIS, 8 CHR
+* Feat order: Great Weapon Master -> Heavy Armour Master (for War Domain), Heavily Armoured (for Death Domain) or Ability Improvement +2 STR (if didn't take +1 STR buff from Ethel) -> Ability Improvement +2 STR
+
 
 ## Necromancy Wizard 12
 

@@ -19,9 +19,4 @@
 
 Should try:
 
-- One class Honour Mode:
-    - Pure Sorcerer party with different subclasses as White Dragonborn Storm Sorcery (default Dark Urge)
-    - Pure Cleric party (Death, Light, Tempest, War) as Tempest Domain Cleric
-    - Pure Warlock party with different subclasses
-    - Pure Rogue party with different subclasses as Astarion
-    - Pure Paladin party
+- Lightfoot Halfling, Tempest Domain Cleric, Honour Mode, pure Cleric party (Death, Light, Tempest, War)

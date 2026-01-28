@@ -282,7 +282,7 @@
     * Attacker:
         * Bestial Heart: Eagle (make enemies prone to get Advatage on Attack Rolls)
         * Aspect of the Beast: Stallion (free health from Dashing with Bonus Action) -> Elk (free movement speed)
-* TIP: For Eagle Heart, carry two crates with you and use them as elevation for Diving Strike
+* TIP: For Eagle Heart, carry three crates with you and use them as elevation for Diving Strike
 * TIP: For Tiger and Wolverine Aspects, use poison coatings on weapons to trigger 
 * TIP: For Honey Badger Aspect, eat rotten food prior to combat in order to trigger
 

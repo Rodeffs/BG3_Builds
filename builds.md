@@ -293,6 +293,7 @@
 * NOTE: If you're not planning on taking +1 WIS buff from Ethel, then:
     * Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR
     * Feat order: Ability Improvement +1 CON +1 WIS -> Ability Improvement +2 WIS -> War Caster or Alert
+* NOTE: If you want to use weapons, choose those that have Finesse tag
 
 ## War Domain Cleric 12
 

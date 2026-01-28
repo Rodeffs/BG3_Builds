@@ -21,7 +21,7 @@ Should try:
 - One class Honour Mode:
     - Pure Barbarian party with different sublasses as Half-Orc or Gold Dwarf Wildheart Barbarian (Eagle Heart)
     - Pure Sorcerer party with different subclasses as White Dragonborn Storm Sorcery (default Dark Urge)
-    - Pure Cleric party (Death, Light, Tempest, War)
+    - Pure Cleric party (Death, Light, Tempest, War) as Tempest Domain Cleric
     - Pure Warlock party with different subclasses
     - Pure Rogue party with different subclasses as Astarion
     - Pure Paladin party

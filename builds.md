@@ -294,7 +294,7 @@
 ## War Domain Cleric 12
 
 * Starting Abilities: 14+2 STR, 14 DEX, 13+1 CON, 8 INT, 14 WIS, 8 CHR
-* Fwat order: Heavy Armour Master (if took +1 STR buff from Ethel) or Ability Improvement +2 STR (if didn't) -> Great Weapon Master -> Ability Improvement +2 STR
+* Feat order: Heavy Armour Master (if took +1 STR buff from Ethel) or Ability Improvement +2 STR (if didn't) -> Great Weapon Master -> Ability Improvement +2 STR
 
 ## Death Domain Cleric 12
 

@@ -19,7 +19,7 @@
 * Fighting Style: Archery
 * Spells: Fog Cloud, Enhance Leap, Longstrider
 * Equipment:
-    * Act 1: Strange Conduit Ring, Knife of Undermountain King
+    * Act 1: Strange Conduit Ring, Knife of Undermountain King, Silver Pendant (free Guidance is good), Boots of Striding
     * Act 2: Eversight Ring, Shadow-Cloaked Ring, Covert Cowl, Killer's Sweetheart, Surgeon's Subjugation Amulet
     * Act 3: Bhaalist Armour, Craterflesh Gloves, Bloodthirst, Shade-Slayer Cloak
 * Main weapons: Heavy crossbows
@@ -50,7 +50,7 @@ Recommended route:
 5. Deal with Auntie Ethel and get +1 to DEX by sparing her
 6. Continue progression as usual
 
-You should skip the fight with Grym at the Grymforge, unless you can position it under the hammer, otherwise his Quake ability will break your Fog Cloud concentration
+To fight Grym at the Grymforge, you should prepare thoroughly. Drink Elixir of Peerless focus, equip Boots of Striding and cast Slow on Grym via a scroll. This should keep him under the hammer and should prevent you from being prone and from ending your concentration. Misty Step is also essential in order to kite Grym. Also remember, levers can be activated by shooting at them
 
 Only kill the harpies at the Secluded Cove after reaching level 5. This is because you need to kill them quickly before they get to sing and possibly charm you
 

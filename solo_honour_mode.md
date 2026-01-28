@@ -35,6 +35,7 @@
     * If you have Bhaalist Armour and Crossbow Expert, cast Fog Cloud on top of enemies and shoot them point-blank
 * Keep track of the turn number in combat log. Fog Cloud lasts exactly for 10 turns including the turn you cast it on. So for instance if you cast it on turn 1, then you will need to recast it on turn 10, after that recast on turn 19, then 28 and so on. Rule of thumb: just add 9 to the turn number when you previously casted the Fog Cloud
 * ALWAYS have available spell slots before combat! Go to sleep as soon as you've run out of spell slots
+* Enemies with Devil's Sight or anything that lets them see through magical darkness completely ruin this tactic. Neither Fog Cloud nor Darkness works against them. Avoid encounters with them
 * Keep in mind that enemies with Counterspell will prevent you from casting Fog Cloud. You will need to bait out the Counterspell first with a cantrip
 * If shit goes bad, drink an invisibility potion, cast Umbral Shroud or do anything else to turn yourself invisible and flee combat! Speed potion are also good for this to Disengage and Dash away
 * As a last resort, force reboot your PC to prevent save override
@@ -76,7 +77,7 @@ Notable enemies with Counterspell:
 
 ### Act 2
 
-The only encounter you should skip is the Shadow-Cursed Shambling Mound as it's immune to piercing
+You should skip the encounter with Shadow-Cursed Shambling Mound as it's immune to piercing
 
 With Kar'niss you must first kill him and only then the other fanatics, otherwise he will kill you with Fanatic Retaliation
 
@@ -85,6 +86,8 @@ With Malus you must first kill the nurses before dealing with him, otherwise he 
 With Thisobald you must spam elemental spells or elemental arrows at him first in order to make him vulnerable to piercing damage
 
 Do not go to Isobel until you've bought 60~80 Smokepowder Bombs (for both Myrkul and the Netherbrain) from Quartermaster Talli at the Last Light Inn. Abuse Partial Long Rests to constantly refresh her stock
+
+Do not fight Yurgir as he can see through Fog Cloud and Darkness. Either convince him to kill himself or free him from his contract by killing mice
 
 Otherwise play as usual
 
@@ -121,6 +124,8 @@ Then do as follows:
 You should skip Gortash fight by allying with him since The Closed Fist of Bane will surely break your Fog Cloud concentration
 
 You should also skip Viconia DeVir fight as she and her sharrans can see through both Fog Cloud and Darkness. If you want to get to the Mirror of Loss, you should just drink a Potion of Invisibility, cast Knock on the door leading to it and get inside with a Potion of Invisibility again. To get out just use fast travel
+
+You must definitely skip the fight with Raphael as he can see through Fog Cloud and Darkness. Do not go to hell in general for that matter
 
 You should also get Runepowder Bomb from Wulbern and keep it for the Finale
 

@@ -290,6 +290,9 @@
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 10 INT, 15+2 WIS, 8 CHR
 * Feat order: Ability Improvement +2 WIS -> War Caster -> Alert
+* NOTE: If you're not planning on taking +1 WIS buff from Ethel, then:
+    * Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR
+    * Feat order: Ability Improvement +1 CON +1 WIS -> Ability Improvement +2 WIS -> War Caster or Alert
 
 ## War Domain Cleric 12
 
@@ -321,7 +324,7 @@
 ## Circle of the Moon Druid 12
 
 * Starting Abilities: 8 STR, 15+1 DEX, 15 CON, 8 INT, 15+2 WIS, 8 CHR 
-* Feat order: Tavern Brawler -> Alert -> Ability Improvement +2 WIS or anything else
+* Feat order: Tavern Brawler +1 CON -> Alert -> Ability Improvement +2 WIS or anything else
 
 ## Circle of the Moon Druid 6 + Wildheart Barbarian 6, aka "Enraged Beast"
 

@@ -38,7 +38,7 @@
 * Enemies with Devil's Sight or anything that lets them see through magical darkness completely ruin this tactic. Neither Fog Cloud nor Darkness works against them. Avoid encounters with them
 * Keep in mind that enemies with Counterspell will prevent you from casting Fog Cloud. You will need to bait out the Counterspell first with a cantrip
 * If shit goes bad, drink an invisibility potion, cast Umbral Shroud or do anything else to turn yourself invisible and flee combat! Speed potion are also good for this to Disengage and Dash away
-* As a last resort, force reboot your PC to prevent save override
+* As a last resort, force reboot your PC to prevent save override. Do this before you see the death message, otherwise it's a fail
 
 ### Act 1
 

@@ -294,7 +294,7 @@
 ## Death / War Domain Cleric 12
 
 * Starting Abilities: 14+2 STR, 14 DEX, 12 CON, 8 INT, 15+1 WIS, 8 CHR
-* Feat order: Great Weapon Master -> Heavy Armour Master (for War Domain), Heavily Armoured (for Death Domain) or Ability Improvement +2 STR (if didn't take +1 STR buff from Ethel) -> Ability Improvement +2 STR
+* Feat order: Great Weapon Master -> Heavy Armour Master (for War Domain), Heavily Armoured (for Death Domain) or Ability Improvement +2 STR (either Domain, if didn't take +1 STR buff from Ethel) -> Ability Improvement +2 STR
 
 
 ## Necromancy Wizard 12

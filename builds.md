@@ -64,10 +64,16 @@
 
 ## Any Paladin 12
 
-* Starting Abilities: 14+2 STR, 10 DEX, 14 CON, 8 INT, 10 WIS, 15+1 CHR
-* Feat order: Alert -> Heavy Armour Master (if took +1 STR buff from Ethel) or Ability Improvement +2 STR (if didn't) -> Great Weapon Master
-* Fighting Style: Great Weapon Fighting
+* Starting Abilities: 15+2 STR, 14 DEX, 10 CON, 8 INT, 8 WIS, 15+1 CHR
+* Feat order: Great Weapon Master -> Ability Improvement +2 STR -> Alert
+* Fighting Style: Defence
 * TIP: Set all Divine Smites to ask in reactions menu
+* NOTE: If you aren't planning on taking +2 STR buff from Ethel, then:
+    * Starting Abilities: 14+2 STR, 14 DEX, 12 CON, 8 INT, 8 WIS, 15+1 CHR
+    * Feat order: Ability Improvement +2 STR -> Great Weapon Master -> Ability Improvement +2 STR or Alert
+* NOTE: You may also just drink an Elixir of Hill Giant or Cloud Giant Strength after every Long Rest. In this case:
+    * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
+    * Feat order: Great Weapon Master -> Ability Improvement +2 CHR -> Alert (if you took +1 CHR buff from Ethel) or Actor (if didn't)
 
 ## Giant Barbarian 12
 

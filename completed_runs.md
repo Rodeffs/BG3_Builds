@@ -20,3 +20,5 @@
 Should try:
 
 - Lightfoot Halfling, Tempest Domain Cleric, Honour Mode, pure Cleric party (Death, Light, Tempest, War)
+- Gold Dwarf, Paladin (not Oathbreaker), Honour Mode
+- Human, Storm Sorcery Sorcerer, Honour Mode

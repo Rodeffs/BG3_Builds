@@ -89,6 +89,8 @@ Do not go to Isobel until you've bought 60~80 Smokepowder Bombs (for both Myrkul
 
 Do not fight Yurgir as he can see through Fog Cloud and Darkness. Either convince him to kill himself or free him from his contract by killing all the mice
 
+Do not fight Ch'r'ai Tska'an. She is located on the bridge on the way to Baldur's Gate. She has Devil Sight and can easily kill you. Better skip her completely and just use invisibility potion to pass her after you've slain Myrkul
+
 Otherwise play as usual
 
 Notable enemies with Counterspell:

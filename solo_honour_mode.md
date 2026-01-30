@@ -129,6 +129,8 @@ You should also skip Viconia DeVir fight as she and her sharrans can see through
 
 You must definitely skip the fight with Raphael as he can see through Fog Cloud and Darkness. Do not go to hell in general for that matter
 
+If you want to fight Cazador, then be sure to have Daylight spell with you. Before approaching him, drink a speed potion, then cast Daylight with the first action and Fog Cloud with the second. You must kill one of his spawn first (apart from Astarion) otherwise he will become almost unkillable
+
 You should also get Runepowder Bomb from Wulbern and keep it for the Finale
 
 Otherwise you may progress as per usual

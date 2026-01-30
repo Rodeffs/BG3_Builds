@@ -110,7 +110,7 @@ If you have Smokepowder Barrels or Runepowder Barrel, then you should also drink
 Then do as follows:
 1. Before getting close to Ketheric, drink a Potion of Invisibility and get close to Nightsong
 2. Wait until invisibility wears off
-3. After the dialogue, throw a Potion of Speed at your feet and walk on top of the platform where Ketheric stands
+3. After the dialogue, throw a Potion of Speed at your feet, Help the Nightsong and walk on top of the platform where Ketheric stands
 3. If you fight Ketheric first:
     * Cast Fog Cloud and hide in it with Bonus Action
     * On the following turns kill the illithid first and only then Ketheric. Don't forget to hide with Bonus Action

@@ -50,7 +50,7 @@ Recommended route:
 5. Deal with Auntie Ethel and get +1 to DEX by sparing her
 6. Continue progression as usual
 
-To fight Grym at the Grymforge, you should prepare thoroughly. Drink Elixir of Peerless focus, equip Boots of Striding and cast Slow on Grym via a scroll. This should keep him under the hammer and should prevent you from being prone and from ending your concentration. Misty Step is also essential in order to kite Grym. Also remember, levers can be activated by shooting at them
+You should skip the fight with Grym at the Grymforge since it may go bad and cause you the run. If you want to fight regardless, then you should prepare thoroughly. Drink Elixir of Peerless focus, equip Boots of Striding and cast Slow on Grym via a scroll. This should keep him under the hammer and should prevent you from being prone and from ending your concentration. Misty Step is also essential in order to kite Grym. Also remember, levers can be activated by shooting at them
 
 Only kill the harpies at the Secluded Cove after reaching level 5. This is because you need to kill them quickly before they get to sing and possibly charm you
 

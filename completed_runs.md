@@ -16,9 +16,3 @@
 14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
 15. Drow, The Dark Urge, Gloom Stalker Ranger, Custom Mode (failed Honour Mode), solo with no companions or hirelings, no multiclassing and no respecs - IN PROCESS
 16. Half-Orc, Wildheart Barbarian, Honour Mode, pure Barbarian party with all the subclasses - IN PROCESS
-
-Should try:
-
-- Lightfoot Halfling, Tempest Domain Cleric, Honour Mode, pure Cleric party (Death, Light, Tempest, War)
-- Gold Dwarf, Paladin (not Oathbreaker), Honour Mode
-- Human, Storm Sorcery Sorcerer, Honour Mode

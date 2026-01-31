@@ -14,5 +14,5 @@
 12. Half-Orc, The Dark Urge, "Critlock", Custom Mode (failed Honour Mode), solo with no companions or hirelings - ADANDONED AT THE FINAL FIGHT (softlocked)
 13. Deep Gnome, Circle of the Spores Druid, Custom Mode (Honour Mode rules but with multiple saves), pure Druid party with all the subclasses - IN PROCESS
 14. Wood Elf, Bladesinging Wizard, Honour Mode, pure Wizard party: Bladesinging, Divination, Illusion, Conjuration - COMPLETED
-15. Drow, The Dark Urge, Gloom Stalker Ranger, Custom Mode (failed Honour Mode), solo with no companions or hirelings, no multiclassing and no respecs - IN PROCESS
+15. Drow, The Dark Urge, Gloom Stalker Ranger, Custom Mode (failed Honour Mode), solo with no companions or hirelings, no multiclassing and no respecs - COMPLETED
 16. Half-Orc, Wildheart Barbarian, Honour Mode, pure Barbarian party with all the subclasses - IN PROCESS

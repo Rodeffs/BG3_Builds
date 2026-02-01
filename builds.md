@@ -107,7 +107,7 @@
 ## Storm Sorcery Sorcerer 10 + Tempest Domain Cleric 2, aka "Thor"
 
 * Starting Abilities: 8 STR, 15+1 DEX, 14 CON, 8 INT, 10 WIS, 15+2 CHR
-* Level order: Cleric 2 -> Sorcerer 10
+* Level order: Sorcerer 1 -> Cleric 2 -> Sorcerer 10
 * Feat order: Ability Improvement +2 CHR -> Dual Wielder
 
 ## Storm Sorcery Sorcerer 12
